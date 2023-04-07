@@ -91,8 +91,6 @@ Our Exploratory Data Analysis is shown in eda.ipynb and eda-2.ipynb, the structu
 
 ### Related work
 
-> - What others have already done with the data?
-
 There has been a lot of data analysis and visualization done on IMDB datasets. The work includes:
 * [Recommendation System](https://www.kaggle.com/code/anmolbajpai/imdb-movies-analysis-eda-recommendations#RECOMMENDATION-SYSTEM): This project explains content-based filtering, and uses TF-IDF (Term Frequency-Inverse Document Frequency) with cosine similarity to recommend movies.
 * [Rating visualization](https://krisrs1128.github.io/stat679_notes/2022/06/01/week2-3.html): This project uses Shiny to explore the IMDB movie dataset. They use filters to show the rating score by different genres, MPAA ratings, and periods.
@@ -100,11 +98,9 @@ There has been a lot of data analysis and visualization done on IMDB datasets. T
 Also, some visualizations from other fields inspired us to try to improve our website:
 * [Interactive maps](https://maphub.net/hyperknot/custom-markers-berlin-zoo): We think we can make an interactive world map with directors and actors/actresses from all over the world. 
 * [Word Cloud](https://earthlinginteractive.com/blog/book-and-movie-word-clouds/): This is a book word cloud, which is a very good way to visualize different categories. In our project, we want to create an interactive word cloud with genres of movies, and you can click your favorite genre to check what are the best movies in this genre with synopses of these movies.
-* [Visualized recommendation network](https://www.researchgate.net/publication/221514932_Integrating_statistics_and_visualization_Case_studies_of_gaining_clarity_during_exploratory_data_analysis):
+* [Visualized recommendation network](https://www.researchgate.net/publication/221514932_Integrating_statistics_and_visualization_Case_studies_of_gaining_clarity_during_exploratory_data_analysis): This thesis introduces the notion of visualizing the suggestion process using a recommendation network. That is a better method to illustrate the connection between the movies that were recommended and the ones you searched for.
 
-> - Why is your approach original?
-
-We found a website called [Suggest Me Movie](https://www.suggestmemovie.com/) which is a very convenient website that can recommend you some movies with the filters you choose to apply. However, we found the interface for selecting filters on this site to be very pale and uninteresting (check some movie categories or select a movie language and rating). IMDB also has a recommendation system, but it is simply a list of movies that may interest users.
+We found a website called [Suggest Me Movie](https://www.suggestmemovie.com/) which is a very convenient website that can recommend you some movies with the filters you choose to apply. However, we found the interface for selecting filters on this site to be very pale and uninteresting (check some movie categories or select a movie language and rating). IMDB also has a recommendation system, but it is simply a list of movies that may interest users. Our idea is to visualize the process of adding filters to the search. For example, we can use an iteractive map that gives people the freedom to choose actors and directors for films in different countries or regions. Also we can use a word cloud to show the percentage of films in the IMDB top 250 by genres, and you can select the terms (film categories) to be used as filters in the search. For the recommandation part, we wanted to present the recommended films in a more visual way using a network of relationships.
 
 
 ## Milestone 2 (7th May, 5pm)
