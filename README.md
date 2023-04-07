@@ -40,9 +40,9 @@ Since the 1960s and 1970s, when many Hollywood films began to flourish, cinema h
 
 #### 2. Motivation & Target audience:
 
-Nowadays, there are more and more commercial films and more and more platforms than ever before. In this modern age of information explosion, many people who are interested in films or just want to find a film to watch to pass the time can find it difficult to choose from the wide range of films on offer. Our goal is to provide an easy, intuitive movie search site paired with a recommendation system that gives people who want to see quality movies but struggle to choose a movie based on more than just an overview of the movie or other users' ratings.
+Since our intention is to recommend quality films, we have chosen the IMDB top 250 films data. There are more commercial films and platforms available today than ever before. Many individuals who are interested in movies or just want to locate a movie to watch to pass the time may find it challenging to choose from the huge selection of movies available in today's world of information explosion. Our objective is to offer a simple, user-friendly movie search platform together with a suggestion feature that enables those who want to see high-caliber films but find it difficult to make a decision based just on plot summaries or user reviews.
 
-As everyone's favorite films have different directions, our search system will give users a large degree of freedom to search. For example, search by country of directors or actors, search by genre, search by IMDB rating score, search by box office or profitability of a film, etc.
+As everyone's favorite films have different directions, our search system will give users a large degree of freedom to search. For example, search by country of directors or actors/actress, search by genre, search by IMDB rating score, search by box office or profitability of a film, etc. Furthermore, we want to give a visual recommendation page so that users can choose the recommended movies more intuitively. 
 
 ### Exploratory Data Analysis
 
