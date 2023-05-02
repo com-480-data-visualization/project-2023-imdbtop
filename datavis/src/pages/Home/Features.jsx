@@ -1,0 +1,53 @@
+/*
+Page: Features for the homepage
+This page sets filters before fetching.
+
+*/
+
+import React from "react";
+import {
+  StyledSectionHeader,
+  StyledFeature,
+} from "../../components/styles/Page.styled";
+import { sortBy } from "../../data/data";
+
+const Features = ({ sortByURL, setSortByURL, viewBy, setViewBy }) => {
+  return (
+    <StyledSectionHeader>
+      <StyledFeature>
+        <h4>Sort By</h4>
+        {Object.getOwnPropertyNames(sortBy).map((item) => {
+          return (
+            <div
+              key={item}
+              className={sortByURL === item ? "isActived" : ""}
+              onClick={() => setSortByURL(item)}
+            >
+              <p>
+                {item.charAt(0).toUpperCase() + item.substring(1, item.length)}
+              </p>
+            </div>
+          );
+        })}
+      </StyledFeature>
+      <StyledFeature>
+        <h4>View By</h4>
+        <div
+          onClick={() => setViewBy(true)}
+          className={viewBy ? "isActived" : ""}
+        >
+          <p>Relationship Graphs</p>
+        </div>
+        <div
+          onClick={() => setViewBy(false)}
+          className={!viewBy ? "isActived" : ""}
+        >
+          <p>Tabular Data</p>
+        </div>
+      </StyledFeature>
+      <span />
+    </StyledSectionHeader>
+  );
+};
+
+export default Features;
