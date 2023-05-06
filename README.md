@@ -105,7 +105,7 @@ We found a website called [Suggest Me Movie](https://www.suggestmemovie.com/) wh
 
 ## Milestone 2 (7th May, 5pm)
 
-Here is the report [Milestone 2]
+Here is the report [Milestone 2](https://github.com/com-480-data-visualization/project-2023-imdbtop/blob/master/Milestone2.pdf)
 
 
 ## Milestone 3 (4th June, 5pm)
