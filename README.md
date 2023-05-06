@@ -105,7 +105,7 @@ We found a website called [Suggest Me Movie](https://www.suggestmemovie.com/) wh
 
 ## Milestone 2 (7th May, 5pm)
 
-**10% of the final grade**
+Here is the report [Milestone 2]
 
 
 ## Milestone 3 (4th June, 5pm)
