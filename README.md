@@ -107,6 +107,16 @@ We found a website called [Suggest Me Movie](https://www.suggestmemovie.com/) wh
 
 Here is the report [Milestone 2](https://github.com/com-480-data-visualization/project-2023-imdbtop/blob/master/Milestone2.pdf)
 
+To run the intial website template:
+
+Install all dependencies: 
+
+`npm install`
+
+Run the website: 
+
+`npm start`
+
 
 ## Milestone 3 (4th June, 5pm)
 
