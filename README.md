@@ -109,6 +109,10 @@ Here is the report [Milestone 2](https://github.com/com-480-data-visualization/p
 
 To run the intial website template:
 
+Enter the directory:
+
+`cd datavis`
+
 Install all dependencies: 
 
 `npm install`
