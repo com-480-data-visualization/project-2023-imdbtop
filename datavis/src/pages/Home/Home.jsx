@@ -11,7 +11,7 @@ import Main from "./Main";
 
 const Home = () => {
   // Save the value in setGenreID to fetch/filter the type of movie.
-  const [genreID, setGenreID] = useState(0);
+  const [genreID, setGenreID] = useState(5);
 
   return (
     <StyledPage>
