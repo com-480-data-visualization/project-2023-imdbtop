@@ -12,6 +12,7 @@ import {
   StyledInputList,
 } from "./styles/Input.styled";
 import APIUtils from "../api/APIUtils";
+import * as d3 from 'd3';
 import useDebounce from "../hooks/useDebounce";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faMagnifyingGlass } from "@fortawesome/free-solid-svg-icons";
@@ -19,11 +20,31 @@ import { faMagnifyingGlass } from "@fortawesome/free-solid-svg-icons";
 const Input = ({ filterpage }) => {
   const navigate = useNavigate();
   const [hasFocus, setFocus] = useState(false);
-  const { datas, isLoading, requestMovie } = APIUtils();
+  const [ datas, setDatas ] = useState([]);
+  //const { datas, isLoading, requestMovie } = APIUtils();
   const [textValue, setTextValue] = useState("");
   const searchTerm = useDebounce(textValue, 500);
+  // const [movies, setMovies] = useState([]);
+
+  
+  useEffect(() => {
+    const fetchData = async () => {
+      try {
+        const response = await d3.json('/data/movies_relation.json'); // Replace with the actual path to your JSON file
+        setDatas(response.map(d => d.id).filter(str => str.includes(searchTerm)));
+      } catch (error) {
+        console.error('Error fetching JSON data:', error);
+      }
+    };
+
+    fetchData();
+  }, []);
+  
+
+  console.log("datas", datas)
 
   // Fetch item.
+  /*
   useEffect(() => {
     searchTerm !== "" &&
       requestMovie(
@@ -31,6 +52,7 @@ const Input = ({ filterpage }) => {
         "/search/movie?"
       );
   }, [searchTerm]);
+  */
 
   const listClickHandler = (title) => {
     setTextValue(title);
@@ -91,13 +113,13 @@ const Input = ({ filterpage }) => {
         {hasFocus &&
           searchTerm !== "" &&
           datas !== undefined &&
-          datas.results.map((item, idx) => {
+          datas.map((item, idx) => {
             return (
               <p
-                key={idx + item.title}
-                onClick={() => listClickHandler(item.title)}
+                key={idx + item.id}
+                onClick={() => listClickHandler(item.id)}
               >
-                {item.title}
+                {item.id}
               </p>
             );
           })}
