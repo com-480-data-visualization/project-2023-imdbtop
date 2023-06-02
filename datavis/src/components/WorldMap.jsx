@@ -72,7 +72,7 @@ const WorldMap = (props) => {
         svg.selectAll('path').attr('d', path);
       })
     );
-    
+
     d3.select(window).on('resize', size_changed);
     fetch(locationURL)
       .then((response) => response.json())
@@ -90,7 +90,10 @@ const WorldMap = (props) => {
               ? selected_country_color
               : orginal_country_color;
           })
-          .on('click', (d) => go_to_country(d.id));
+          .on('click', (d) => {
+            console.log('Click on country', d.target.__data__);
+            go_to_country(d.target.__data__.id)
+          });
       })
       .catch((error) => {
         verbose && console.log('Failed to fetch countries');
@@ -146,7 +149,6 @@ const WorldMap = (props) => {
     function get_current_subject() {
       return current_subject;
     }
-
     go_to_country.go_to_country = go_to_country;
     go_to_country.get_current_subject = get_current_subject;
   }, [props]);
