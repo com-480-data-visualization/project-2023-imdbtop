@@ -9,6 +9,8 @@ import React, { useState, useEffect } from "react";
 
 import { useParams } from "react-router-dom";
 import { useNavigate } from "react-router-dom";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faCircleXmark } from "@fortawesome/free-solid-svg-icons";
 import {
   StyledAside,
   StyledAsideLogo,
@@ -16,11 +18,7 @@ import {
   StyledAsideHistoryText,
 } from "../../components/styles/Aside.styled";
 import Input from "../../components/Input";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faCircleXmark } from "@fortawesome/free-solid-svg-icons";
-import InteractiveWordCloud from "../../components/wordcloud_genre";
-
-
+import WordCloudGenre from "../../components/WordCloudGenre";
 
 const Aside = () => {
   const { id } = useParams();
@@ -59,6 +57,7 @@ const Aside = () => {
 
   return (
     <StyledAside>
+      <WordCloudGenre />
       <h1 className="filterpage">Search</h1>
       <Input filterpage={true} />
       <span></span>
@@ -77,7 +76,6 @@ const Aside = () => {
       </StyledAsideHistory>
 
       <h1 className="filterpage">Movie Category Filter</h1>
-      <InteractiveWordCloud />
 
     </StyledAside>
   );
