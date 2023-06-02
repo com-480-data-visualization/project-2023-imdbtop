@@ -18,9 +18,7 @@ import {
 import Input from "../../components/Input";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faCircleXmark } from "@fortawesome/free-solid-svg-icons";
-import category from "../../assets/wordcloud-category.png";
-import director from "../../assets/wordcloud-director.png";
-import star from "../../assets/wordcloud-star.png";
+import InteractiveWordCloud from "../../components/wordcloud_genre";
 
 
 
@@ -78,26 +76,8 @@ const Aside = () => {
         })}
       </StyledAsideHistory>
 
-      <h1 className="filterpage">Movie Stars Filter</h1>
-      <img
-              src={star}
-              className="Movie-Star"
-              alt="Movie-Star"
-            />
-      <span></span>
-      <h1 className="filterpage">Movie Directors Filter</h1>
-      <img
-              src={director}
-              className="Movie-Director"
-              alt="Movie-Director"
-            />
-      <span></span>
       <h1 className="filterpage">Movie Category Filter</h1>
-      <img
-              src={category}
-              className="Movie-Category"
-              alt="Movie-Category"
-            />
+      <InteractiveWordCloud />
 
     </StyledAside>
   );
