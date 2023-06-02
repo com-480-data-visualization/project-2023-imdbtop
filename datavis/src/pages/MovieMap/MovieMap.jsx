@@ -7,47 +7,26 @@ import {
   StyledInfoMain,
   StyledInfoImage,
 } from "../../components/styles/Info.styled";
-
+import { StyledPage } from "../../components/styles/Page.styled";
+import WorldMap from "../../components/WorldMap";
 import logo from "../../assets/main_logo.png";
 
 const MovieMap = () => {
   return (
-    <StyledInfo>
-      <StyledInfoSection>
-        <StyledInfoHeader>
-          <h2>Director Map</h2>
-        </StyledInfoHeader>
-        <StyledInfoMain>
-          <p>
-            Description
-          </p>
-        </StyledInfoMain>
-      </StyledInfoSection>
-
-      <StyledInfoSection>
-        <StyledInfoHeader>
-          <h2>Actor Map</h2>
-        </StyledInfoHeader>
-        <StyledInfoMain>
-          <p>
-            Description
-          </p>
-        </StyledInfoMain>
-      </StyledInfoSection>
-
-      <StyledInfoSection>
-        <StyledInfoHeader>
-          <h2>Movie Map</h2>
-        </StyledInfoHeader>
-        <StyledInfoMain>
-          <p>
-            Description
-          </p>
-        </StyledInfoMain>
-      </StyledInfoSection>
-
-      
-    </StyledInfo>
+    <StyledPage>
+      <WorldMap
+        world_type={null}
+        selected_countries={[]}
+        height={window.innerHeight}
+        width={window.innerWidth}
+        css_style={null}
+        orginal_country_color={"#cccccc"}
+        clicked_country_color={"#FFFF99"}
+        selected_country_color={"#ff726f"}
+        location={null}
+        verbose={true}
+      />
+    </StyledPage>
   );
 };
 
