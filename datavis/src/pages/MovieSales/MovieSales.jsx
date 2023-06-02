@@ -27,13 +27,15 @@ const MovieSales = () => {
   return (
     <StyledInfo>
       <StyledInfoSection>
-        <StyledInfoHeader>
-          <h2>Movie Sales Bubble Chart</h2>
-        </StyledInfoHeader>
         <StyledInfoMain>
-          <p>
-            High rating, or high box office, that is the question. This bubble chart shows the relationship between the two.
-          </p>
+          <h1>
+            High rating, or high box office, that is the question. 
+          </h1>
+            The movie industry is a multi-billion dollar industry, with the average movie costing $100 million to make, and the average movie making $250 million in box office sales. However, filmmaking is a fickle industry — if you make enough movies, one of them is bound to go wrong. 
+            No filmmaker has ascended to the apex of Hollywood — and stayed there — without surviving the occasional flop.
+            There are numerous additional reasons why a movie might lose money at the box office. Numerous excellent films have failed to find an audience due to poor timing, unsuccessful marketing initiatives, or simply being too "out there" for the general public.
+            Fortunately, many flops go on to be reevaluated as classic films in their own right. From the bubble chart below, you can discover the relationship between the rating and the box office of the IMDB top 250 movies, and to see which movie is the one both "money and glory", or to see which movie had "touchdown" at that time.
+          <p/>  
           <div
             className="flourish-embed flourish-scatter"
             data-src="visualisation/13980087"
