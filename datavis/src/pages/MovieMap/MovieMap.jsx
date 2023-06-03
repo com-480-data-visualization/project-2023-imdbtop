@@ -59,13 +59,16 @@ const MovieMap = () => {
 
   const [activeTab, setActiveTab] = useState('A');
   const [countryList, setCountryList] = useState([]);
+  const [visibleState, setVisibleState] = useState(false);
 
   useEffect(() => {
     // Update the country list based on the active tab
     if (activeTab === 'A') {
       setCountryList(countriesList("/data/star_nation.json"));
+      setVisibleState(false);
     } else if (activeTab === 'B') {
       setCountryList(countriesList("/data/director_nation.json"));
+      setVisibleState(false);
     }
   }, [activeTab]);
 
@@ -91,6 +94,8 @@ const MovieMap = () => {
         selected_country_color={["#9ebcdb","#7091c7","#4e70af","#375093"]}
         location={null}
         verbose={true}
+        visibleStateFun = {setVisibleState}
+        visibleState={visibleState}
       />
     </StyledPage>
   );
