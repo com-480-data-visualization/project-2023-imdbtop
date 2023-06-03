@@ -12,7 +12,6 @@ import {
 const SearchBox = ({ movies, onSelectSearch }) => {
   const [searchText, setSearchText] = useState('');
   const [searchResults, setSearchResults] = useState([]);
-  const [selectedTitle, setSelectedTitle] = useState('');
 
   const handleChange = (e) => {
     const value = e.target.value;
@@ -21,19 +20,17 @@ const SearchBox = ({ movies, onSelectSearch }) => {
 
   const handleSearch = (e) => {
     const value = e.target.value;
+    console.log("debug value", searchText);
     // Filter movies based on the search text
     const filteredMovies = movies.filter((movie) =>
-      movie.id.toLowerCase().includes(value.toLowerCase())
+      movie.id.toLowerCase().includes(searchText.toLowerCase())
     );
-    onSelectSearch(searchResults);
+    console.log("debbbuugg filteredmovies", filteredMovies);
+    onSelectSearch(filteredMovies);
     setSearchResults(filteredMovies);
 
-    console.log("debbbuugg", searchResults);
   };
 
-  const handleSelectTitle = (title) => {
-    setSelectedTitle(title);
-  };
   /*
   const handleConfirm = () => {
     if (searchResults) {
