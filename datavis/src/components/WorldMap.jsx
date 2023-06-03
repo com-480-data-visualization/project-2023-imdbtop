@@ -44,7 +44,6 @@ const WorldMap = (props) => {
       }</style>`;
 
     document.head.insertAdjacentHTML('beforeend', css_style || qb_worldmap_style);
-    console.log(height,width);
     const sensitivity = 75;
     const projection = d3.geoOrthographic().translate([width / 2, height / 2]);
     const org_scale = projection.scale();
