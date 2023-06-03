@@ -5,6 +5,7 @@ import { NodeInfo, Image } from './styles/NodeInfo.styled';
 
 const WorldMap = (props) => {
   const [nodeInfoPosition, setNodeInfoPosition] = useState({ top: 0, left: 0 });
+
   const svgRef = useRef(null);
   const {
     world_type,
@@ -17,6 +18,8 @@ const WorldMap = (props) => {
     selected_country_color,
     location,
     verbose,
+    visibleStateFun,
+    visibleState,
   } = props;
   let current_subject = null;
   let countries = null;
@@ -100,7 +103,8 @@ const WorldMap = (props) => {
           })
           .on('click', (d) => {
             console.log('Click on country', d.target.__data__);
-            go_to_country(d.target.__data__.id)
+            go_to_country(d.target.__data__.id);
+            visibleStateFun(true);
           });
       })
       .catch((error) => {
@@ -184,9 +188,13 @@ const WorldMap = (props) => {
     
     <div>
       <svg ref={svgRef}></svg>
-      <NodeInfo style={nodeInfoPosition}>
-        <p> test </p>
-      </NodeInfo>
+      
+      {visibleState && (
+        <NodeInfo style={nodeInfoPosition}>
+          <p> test </p>
+        </NodeInfo>
+      )}
+      
     </div>
   )
 }
