@@ -15,6 +15,7 @@ import Lists from "../../components/Lists";
 import Content from "../../components/Content";
 import PopupBackground from "../../components/PopupBackground";
 import WordCloudGenre from "../../components/WordCloudGenre";
+import WordCloudDirector from "../../components/WordCloudDirector";
 
 const Main = () => {
   const { id } = useParams();
@@ -25,7 +26,7 @@ const Main = () => {
 
   return (
     <StyledArticle>
-      <WordCloudGenre />
+      <WordCloudDirector />
       <Features viewBy={viewBy} setViewBy={(bool) => setViewBy(bool)} />
       {id !== undefined ? (
         <Lists
