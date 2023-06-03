@@ -57,7 +57,6 @@ const Aside = () => {
 
   return (
     <StyledAside>
-      <WordCloudGenre />
       <h1 className="filterpage">Search</h1>
       <Input filterpage={true} />
       <span></span>

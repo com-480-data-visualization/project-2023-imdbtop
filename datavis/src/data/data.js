@@ -5,74 +5,97 @@ After extracting this data, it passes the parameters and other sources.
 
 export const request = [
     {
-        genre: "Drama",
-        URL: "with_genres=28&include_adult=false&",
+      genre: "Drama",
+      ID: "1",
+      label: "Drama",
     },
     {
-        genre: "Adventure",
-        URL: "with_genres=12&include_adult=false&",
+      genre: "Adventure",
+      ID: "2",
+      label: "Adventure",
     },
     {
-        genre: "Crime",
-        URL: "with_genres=16&include_adult=false&",
+      genre: "Crime",
+      ID: "3",
+      label: "Crime",
     },
     {
-        genre: "Action",
-        URL: "with_genres=10402&include_adult=false&",
+      genre: "Action",
+      ID: "4",
+      label: "Action",
     },
     {
-        genre: "Comedy",
-        URL: "with_genres=10770&include_adult=false&",
+      genre: "Comedy",
+      ID: "5",
+      label: "Comedy",
     },
     {
-        genre: "Mystery",
-        URL: "with_genres=18&include_adult=false&",
+      genre: "Mystery",
+      ID: "6",
+      label: "Mystery",
     },
     {
-        genre: "Thriller",
-        URL: "with_genres=10751&include_adult=false&",
+      genre: "Thriller",
+      ID: "7",
+      label: "Thriller",
     },
     {
-        genre: "Biography",
-        URL: "with_genres=10749&include_adult=false&",
+      genre: "Biography",
+      ID: "8",
+      label: "Biography",
     },
     {
-        genre: "Animation",
-        URL: "with_genres=9648&include_adult=false&",
+      genre: "Animation",
+      ID: "9",
+      label: "Animation",
     },
     {
-        genre: "War",
-        URL: "with_genres=27&include_adult=false&",
+      genre: "War",
+      ID: "10",
+      label: "War",
     },
     {
-        genre: "Romance",
-        URL: "with_genres=53&include_adult=false&",
+      genre: "Romance",
+      ID: "11",
+      label: "Romance",
     },
     {
-        genre: "Sci-Fi",
-        URL: "with_genres=14&include_adult=false&",
+      genre: "Sci-Fi",
+      ID: "12",
+      label: "Sci-Fi",
     },
     {
-        genre: "Fantasy",
-        URL: "with_genres=878&include_adult=false&",
+      genre: "Fantasy",
+      ID: "13",
+      label: "Fantasy",
     },
     {
-        genre: "Family",
-        URL: "with_genres=99&include_adult=false&",
+      genre: "Family",
+      ID: "14",
+      label: "Family",
     },
     {
-        genre: "History",
-        URL: "with_genres=80&include_adult=false&",
+      genre: "History",
+      ID: "15",
+      label: "History",
     },
     {
-        genre: "Western",
-        URL: "with_genres=10752&include_adult=false&",
+      genre: "Western",
+      ID: "16",
+      label: "Western",
     },
     {
-        genre: "Sport",
-        URL: "with_genres=36&include_adult=false&",
+      genre: "Sport",
+      ID: "17",
+      label: "Sport",
     },
-];
+    {
+      genre: "ALL",
+      ID: "0",
+      label: "",
+    },
+  ];
+
 
 export const sortBy = {
     popular: "/discover/movie?sort_by=popularity.desc&",

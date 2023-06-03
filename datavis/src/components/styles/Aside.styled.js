@@ -10,6 +10,7 @@ export const StyledAside = styled.aside`
 
   h1 {
     color: ${({ theme }) => theme.colors.constLight};
+    text-align: center;
   }
 
   h4 {

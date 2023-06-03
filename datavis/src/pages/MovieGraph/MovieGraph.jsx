@@ -2,12 +2,9 @@ import React from "react";
 import * as d3 from 'd3';
 import { useEffect, useState } from 'react';
 import {
-  StyledInfo,
-  StyledInfoSection,
-  StyledInfoHeader,
-  StyledInfoMain,
-  StyledInfoImage,
-} from "../../components/styles/Info.styled";
+  StyledAside,
+  StyledAsideLogo,
+} from "../../components/styles/Aside.styled";
 
 import logo from "../../assets/main_logo.png";
 
@@ -55,14 +52,25 @@ const test_category = "Romance"
 const MovieGraphVis = () => {
   
   const [movies, setMovies] = useState([]);
+  const [isFeteched, setIsFeteched] = useState(false);
+  const [selectedMovies, setSelectedMovies] = useState([]);
+  const handleSearchMovies = (selected) => {
+    console.log("debug handleSearchMovies", selected)
+    setSelectedMovies(selected);
+  };
+  
 
   useEffect(() => {
     const fetchData = async () => {
-      try {
-        const response = await d3.json('/data/movies_relation.json'); // Replace with the actual path to your JSON file
-        setMovies(response);
-      } catch (error) {
-        console.error('Error fetching JSON data:', error);
+      if (! isFeteched) {
+        try {
+          const response = await d3.json('/data/movies_relation.json'); // Replace with the actual path to your JSON file
+          setMovies(response);
+          setSelectedMovies(response);
+          setIsFeteched(true);
+        } catch (error) {
+          console.error('Error fetching JSON data:', error);
+        }
       }
     };
 
@@ -75,12 +83,14 @@ const MovieGraphVis = () => {
   return (
     <StyledPage>
       <Aside
+        movies = {movies} 
         genreID={genreID}
         setGenreID={(int) => {
           setGenreID(int);
         }}
+        setMovies = {handleSearchMovies}
       />
-       <RelationGraph movies={movies} genre = {request[genreID].genre} />
+      <RelationGraph movies={selectedMovies} genre = {request[genreID].label} />
     </StyledPage>
   );
 };

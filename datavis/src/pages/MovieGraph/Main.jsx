@@ -5,7 +5,7 @@ This page collects all the materials to fetch a movie.
 */
 
 import React, { useState } from "react";
-import { StyledArticle } from "../../components/styles/Page.styled";
+import { StyledArticle， StyledButtonContainer } from "../../components/styles/Page.styled";
 import Content from "../../components/Content";
 import PopupBackground from "../../components/PopupBackground";
 import Features from "./Features";

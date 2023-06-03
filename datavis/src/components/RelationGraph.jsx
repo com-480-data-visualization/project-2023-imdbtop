@@ -3,6 +3,7 @@ import * as d3 from 'd3';
 import { NodeInfo } from './styles/NodeInfo.styled';
 
 const RelationGraph = ({ movies, genre }) => {
+  console.log("debug movies", movies);
   const svgRef = useRef(null);
   const [hoveredNode, setHoveredNode] = useState(null);
   const [nodeInfoPosition, setNodeInfoPosition] = useState({ top: 0, left: 0 });
@@ -24,7 +25,8 @@ const RelationGraph = ({ movies, genre }) => {
       .force('charge', d3.forceManyBody().strength(-100))
       .force('center', d3.forceCenter(width / 2, height / 2));
 
-    const filteredMovies = movies.filter(item => item.genre.indexOf(genre) !== -1);
+    console.log("debug here", genre, movies);
+    const filteredMovies = genre ? movies.filter(item => item.genre.indexOf(genre) !== -1) : movies;
 
     const links = filteredMovies.reduce((acc, movie) => {
       const movieId = movie.id;
@@ -43,6 +45,7 @@ const RelationGraph = ({ movies, genre }) => {
     const nodes = filteredMovies.map(movie => ({
       id: movie.id,
       imageUrl: movie.image_url,
+      rating: movie.rating,
       title: movie.title,
       genre: movie.genre,
       neighbors: movie.neighbors
@@ -178,6 +181,7 @@ const RelationGraph = ({ movies, genre }) => {
         <NodeInfo style={nodeInfoPosition}>
            <p>Movie Name: {hoveredNode.id}</p>
            <p>Genre: {hoveredNode.genre}</p>
+           <p>Rating: {hoveredNode.rating}</p>
         </NodeInfo>
       )}
     </div>
