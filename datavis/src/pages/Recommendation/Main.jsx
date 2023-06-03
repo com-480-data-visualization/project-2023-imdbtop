@@ -24,8 +24,10 @@ const Main = () => {
 
   const [viewBy, setViewBy] = useState(true);
 
+
   return (
     <StyledArticle>
+      <WordCloudGenre />
       <WordCloudDirector />
       <Features viewBy={viewBy} setViewBy={(bool) => setViewBy(bool)} />
       {id !== undefined ? (
