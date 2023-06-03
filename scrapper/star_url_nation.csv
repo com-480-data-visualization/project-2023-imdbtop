@@ -1,0 +1,911 @@
+star,star_url,nationality
+Stars Tim Robbins,https://www.imdb.com/name/nm0000209,USA
+Morgan Freeman,https://www.imdb.com/name/nm0000151,USA
+Bob Gunton,https://www.imdb.com/name/nm0348409,USA
+Marlon Brando,https://www.imdb.com/name/nm0000008/,USA
+Al Pacino,https://www.imdb.com/name/nm0000199/,USA
+James Caan,https://www.imdb.com/name/nm0001001/,USA
+Diane Keaton,https://www.imdb.com/name/nm0000473/,USA
+Christian Bale,https://www.imdb.com/name/nm0000288/,UK
+Heath Ledger,https://www.imdb.com/name/nm0005132/,Australia
+Aaron Eckhart,https://www.imdb.com/name/nm0001173/,USA
+Michael Caine,https://www.imdb.com/name/nm0000323/,UK
+Al Pacino,https://www.imdb.com/name/nm0000199/,USA
+Robert De Niro,https://www.imdb.com/name/nm0000134/,USA
+Robert Duvall,https://www.imdb.com/name/nm0000380/,USA
+Diane Keaton,https://www.imdb.com/name/nm0000473/,USA
+Henry Fonda,https://www.imdb.com/name/nm0000020/,USA
+Lee J. Cobb,https://www.imdb.com/name/nm0002011/,USA
+Martin Balsam,https://www.imdb.com/name/nm0000842/,USA
+John Fiedler,https://www.imdb.com/name/nm0275835/,USA
+Liam Neeson,https://www.imdb.com/name/nm0000553/,UK
+Ralph Fiennes,https://www.imdb.com/name/nm0000146/,UK
+Ben Kingsley,https://www.imdb.com/name/nm0001426/,UK
+Caroline Goodall,https://www.imdb.com/name/nm0328751/,UK
+Elijah Wood,https://www.imdb.com/name/nm0000704/,USA
+Viggo Mortensen,https://www.imdb.com/name/nm0001557/,USA
+Ian McKellen,https://www.imdb.com/name/nm0005212/,UK
+Orlando Bloom,https://www.imdb.com/name/nm0089217/,UK
+John Travolta,https://www.imdb.com/name/nm0000237/,USA
+Uma Thurman,https://www.imdb.com/name/nm0000235/,USA
+Samuel L. Jackson,https://www.imdb.com/name/nm0000168/,USA
+Bruce Willis,https://www.imdb.com/name/nm0000246/,West Germany
+Elijah Wood,https://www.imdb.com/name/nm0000704/,USA
+Ian McKellen,https://www.imdb.com/name/nm0005212/,UK
+Orlando Bloom,https://www.imdb.com/name/nm0089217/,UK
+Sean Bean,https://www.imdb.com/name/nm0000293/,UK
+Clint Eastwood,https://www.imdb.com/name/nm0000142/,USA
+Eli Wallach,https://www.imdb.com/name/nm0908919/,USA
+Lee Van Cleef,https://www.imdb.com/name/nm0001812/,USA
+Aldo Giuffrè,https://www.imdb.com/name/nm0321294/,Italy
+Tom Hanks,https://www.imdb.com/name/nm0000158/,USA
+Robin Wright,https://www.imdb.com/name/nm0000705/,USA
+Gary Sinise,https://www.imdb.com/name/nm0000641/,USA
+Sally Field,https://www.imdb.com/name/nm0000398/,USA
+Brad Pitt,https://www.imdb.com/name/nm0000093,USA
+Edward Norton,https://www.imdb.com/name/nm0001570,USA
+Meat Loaf,https://www.imdb.com/name/nm0001533,USA
+Elijah Wood,https://www.imdb.com/name/nm0000704/,USA
+Ian McKellen,https://www.imdb.com/name/nm0005212/,UK
+Viggo Mortensen,https://www.imdb.com/name/nm0001557/,USA
+Orlando Bloom,https://www.imdb.com/name/nm0089217/,UK
+Leonardo DiCaprio,https://www.imdb.com/name/nm0000138/,USA
+Joseph Gordon-Levitt,https://www.imdb.com/name/nm0330687/,USA
+Elliot Page,https://www.imdb.com/name/nm0680983/,Canada
+Ken Watanabe,https://www.imdb.com/name/nm0913822/,Japan
+Mark Hamill,https://www.imdb.com/name/nm0000434/,USA
+Harrison Ford,https://www.imdb.com/name/nm0000148/,USA
+Carrie Fisher,https://www.imdb.com/name/nm0000402/,USA
+Billy Dee Williams,https://www.imdb.com/name/nm0001850/,USA
+Keanu Reeves,https://www.imdb.com/name/nm0000206/,Lebanon
+Laurence Fishburne,https://www.imdb.com/name/nm0000401/,USA
+Carrie-Anne Moss,https://www.imdb.com/name/nm0005251/,Canada
+Hugo Weaving,https://www.imdb.com/name/nm0915989/,Nigeria
+Robert De Niro,https://www.imdb.com/name/nm0000134/,USA
+Ray Liotta,https://www.imdb.com/name/nm0000501/,USA
+Joe Pesci,https://www.imdb.com/name/nm0000582/,USA
+Lorraine Bracco,https://www.imdb.com/name/nm0000966/,USA
+Jack Nicholson,https://www.imdb.com/name/nm0000197/,USA
+Louise Fletcher,https://www.imdb.com/name/nm0001221/,USA
+Michael Berryman,https://www.imdb.com/name/nm0077720/,USA
+Morgan Freeman,https://www.imdb.com/name/nm0000151/,USA
+Brad Pitt,https://www.imdb.com/name/nm0000093/,USA
+Kevin Spacey,https://www.imdb.com/name/nm0000228/,USA
+Andrew Kevin Walker,https://www.imdb.com/name/nm0001825/,USA
+Toshirô Mifune,https://www.imdb.com/name/nm0001536/,China]
+Takashi Shimura,https://www.imdb.com/name/nm0793766/,Japan
+Keiko Tsushima,https://www.imdb.com/name/nm0875477/,Japan
+Yukiko Shimazaki,https://www.imdb.com/name/nm0793616/,Japan
+James Stewart,https://www.imdb.com/name/nm0000071/,USA
+Donna Reed,https://www.imdb.com/name/nm0001656/,USA
+Lionel Barrymore,https://www.imdb.com/name/nm0000859/,USA
+Thomas Mitchell,https://www.imdb.com/name/nm0593775/,USA
+Jodie Foster,https://www.imdb.com/name/nm0000149/,USA
+Anthony Hopkins,https://www.imdb.com/name/nm0000164/,UK
+Lawrence A. Bonney,https://www.imdb.com/name/nm0095029/,NA
+Kasi Lemmons,https://www.imdb.com/name/nm0501435/,USA
+Alexandre Rodrigues,https://www.imdb.com/name/nm1179105/,Brazil
+Leandro Firmino,https://www.imdb.com/name/nm1129884/,Brazil
+Matheus Nachtergaele,https://www.imdb.com/name/nm0618690/,Brazil
+Phellipe Haagensen,https://www.imdb.com/name/nm1249574/,Brazil
+Tom Hanks,https://www.imdb.com/name/nm0000158/,USA
+Matt Damon,https://www.imdb.com/name/nm0000354/,USA
+Tom Sizemore,https://www.imdb.com/name/nm0001744/,USA
+Edward Burns,https://www.imdb.com/name/nm0122653/,USA
+Matthew McConaughey,https://www.imdb.com/name/nm0000190/,USA
+Anne Hathaway,https://www.imdb.com/name/nm0004266/,USA
+Jessica Chastain,https://www.imdb.com/name/nm1567113/,USA
+Mackenzie Foy,https://www.imdb.com/name/nm3237775/,USA
+Roberto Benigni,https://www.imdb.com/name/nm0000905/,Italy
+Nicoletta Braschi,https://www.imdb.com/name/nm0000971/,Italy
+Giorgio Cantarini,https://www.imdb.com/name/nm0134493/,Italy
+Giustino Durano,https://www.imdb.com/name/nm0243842/,Italy
+Tom Hanks,https://www.imdb.com/name/nm0000158/,USA
+Michael Clarke Duncan,https://www.imdb.com/name/nm0003817/,USA
+David Morse,https://www.imdb.com/name/nm0001556/,USA
+Bonnie Hunt,https://www.imdb.com/name/nm0001372/,USA
+Stars Mark Hamil,https://www.imdb.com/name/nm0000434/,USA
+lGarrick Hagon,https://www.imdb.com/name/nm0353796/,UK
+Anthony Forrest,https://www.imdb.com/name/nm0286599,UK
+Arnold Schwarzenegger,https://www.imdb.com/name/nm0000216/,Austria
+Linda Hamilton,https://www.imdb.com/name/nm0000157/,USA
+Edward Furlong,https://www.imdb.com/name/nm0000411/,USA
+Robert Patrick,https://www.imdb.com/name/nm0001598/,USA
+Michael J. Fox,https://www.imdb.com/name/nm0000150/,Canada
+Christopher Lloyd,https://www.imdb.com/name/nm0000502/,USA
+Lea Thompson,https://www.imdb.com/name/nm0000670/,USA
+Crispin Glover,https://www.imdb.com/name/nm0000417/,USA
+Daveigh Chase,https://www.imdb.com/name/nm0153738/,USA
+Suzanne Pleshette,https://www.imdb.com/name/nm0687189/,USA
+Miyu Irino,https://www.imdb.com/name/nm0997115/,Japan
+Rumi Hiiragi,https://www.imdb.com/name/nm0383708/,Japan
+Adrien Brody,https://www.imdb.com/name/nm0004778/,USA
+Thomas Kretschmann,https://www.imdb.com/name/nm0470981/,Federal Republic of Germany]
+Frank Finlay,https://www.imdb.com/name/nm0277975/,UK
+Emilia Fox,https://www.imdb.com/name/nm0288976/,UK
+Anthony Perkins,https://www.imdb.com/name/nm0000578/,USA
+Janet Leigh,https://www.imdb.com/name/nm0001463/,USA
+Vera Miles,https://www.imdb.com/name/nm0587256/,USA
+John Gavin,https://www.imdb.com/name/nm0001260/,USA
+Song Kang-ho,https://www.imdb.com/name/nm0814280/,South Korea
+Lee Sun-kyun,https://www.imdb.com/name/nm1310525/,South Korea
+Cho Yeo-jeong,https://www.imdb.com/name/nm1856097/,South Korea
+Choi Woo-sik,https://www.imdb.com/name/nm6079248/,South Korea
+Jean Reno,https://www.imdb.com/name/nm0000606/,French Protectorate of Morocco [now Morocco]
+Gary Oldman,https://www.imdb.com/name/nm0000198/,UK
+Natalie Portman,https://www.imdb.com/name/nm0000204/,Israel
+Danny Aiello,https://www.imdb.com/name/nm0000732/,USA
+Matthew Broderick,https://www.imdb.com/name/nm0000111/,USA
+Jeremy Irons,https://www.imdb.com/name/nm0000460/,UK
+James Earl Jones,https://www.imdb.com/name/nm0000469/,USA
+Whoopi Goldberg,https://www.imdb.com/name/nm0000155/,USA
+Russell Crowe,https://www.imdb.com/name/nm0000128/,New Zealand
+Joaquin Phoenix,https://www.imdb.com/name/nm0001618/,Puerto Rico
+Connie Nielsen,https://www.imdb.com/name/nm0001567/,Denmark
+Oliver Reed,https://www.imdb.com/name/nm0001657/,UK
+Edward Norton,https://www.imdb.com/name/nm0001570/,USA
+Edward Furlong,https://www.imdb.com/name/nm0000411/,USA
+Beverly D'Angelo,https://www.imdb.com/name/nm0000350/,USA
+Jennifer Lien,https://www.imdb.com/name/nm0000497/,USA
+Leonardo DiCaprio,https://www.imdb.com/name/nm0000138/,USA
+Matt Damon,https://www.imdb.com/name/nm0000354/,USA
+Jack Nicholson,https://www.imdb.com/name/nm0000197/,USA
+Mark Wahlberg,https://www.imdb.com/name/nm0000242/,USA
+Kevin Spacey,https://www.imdb.com/name/nm0000228/,USA
+Gabriel Byrne,https://www.imdb.com/name/nm0000321/,Ireland
+Chazz Palminteri,https://www.imdb.com/name/nm0001590/,USA
+Stephen Baldwin,https://www.imdb.com/name/nm0000286/,USA
+Christian Bale,https://www.imdb.com/name/nm0000288/,UK
+Hugh Jackman,https://www.imdb.com/name/nm0413168/,Australia
+Scarlett Johansson,https://www.imdb.com/name/nm0424060/,USA
+Michael Caine,https://www.imdb.com/name/nm0000323/,UK
+Miles Teller,https://www.imdb.com/name/nm1886602,USA
+J.K. Simmons,https://www.imdb.com/name/nm0799777/,USA
+Melissa Benoist,https://www.imdb.com/name/nm2552034,USA
+Humphrey Bogart,https://www.imdb.com/name/nm0000007/,USA
+Ingrid Bergman,https://www.imdb.com/name/nm0000006/,Sweden
+Paul Henreid,https://www.imdb.com/name/nm0002134/,Italy]
+Claude Rains,https://www.imdb.com/name/nm0001647/,UK
+Tsutomu Tatsumi,https://www.imdb.com/name/nm0851302/,NA
+Ayano Shiraishi,https://www.imdb.com/name/nm0794186/,NA
+Akemi Yamaguchi,https://www.imdb.com/name/nm0945312/,NA
+Yoshiko Shinohara,https://www.imdb.com/name/nm0794002/,NA
+Tatsuya Nakadai,https://www.imdb.com/name/nm0619938/,Japan
+Akira Ishihama,https://www.imdb.com/name/nm0410968/,Japan
+Shima Iwashita,https://www.imdb.com/name/nm0412615/,Japan
+Tetsurô Tanba,https://www.imdb.com/name/nm0848533/,Japan
+François Cluzet,https://www.imdb.com/name/nm0167388/,France
+Omar Sy,https://www.imdb.com/name/nm1082477/,France
+Anne Le Ny,https://www.imdb.com/name/nm0494504/,France
+Audrey Fleurot,https://www.imdb.com/name/nm1109153/,France
+Charles Chaplin,https://www.imdb.com/name/nm0000122/,UK
+Paulette Goddard,https://www.imdb.com/name/nm0002104/,USA
+Henry Bergman,https://www.imdb.com/name/nm0074788/,USA
+Tiny Sandford,https://www.imdb.com/name/nm0761866/,USA
+Henry Fonda,https://www.imdb.com/name/nm0000020/,USA
+Charles Bronson,https://www.imdb.com/name/nm0000314/,USA
+Claudia Cardinale,https://www.imdb.com/name/nm0001012/,French Protectorate Tunisia [now Tunisia]
+James Stewart,https://www.imdb.com/name/nm0000071/,USA
+Grace Kelly,https://www.imdb.com/name/nm0000038/,USA
+Wendell Corey,https://www.imdb.com/name/nm0179819/,USA
+Thelma Ritter,https://www.imdb.com/name/nm0728812/,USA
+Philippe Noiret,https://www.imdb.com/name/nm0634159/,France
+Enzo Cannavale,https://www.imdb.com/name/nm0134073/,Italy
+Antonella Attili,https://www.imdb.com/name/nm0041066/,Italy
+Isa Danieli,https://www.imdb.com/name/nm0199774/,Italy
+Sigourney Weaver,https://www.imdb.com/name/nm0000244/,USA
+Tom Skerritt,https://www.imdb.com/name/nm0000643/,USA
+John Hurt,https://www.imdb.com/name/nm0000457/,UK
+Veronica Cartwright,https://www.imdb.com/name/nm0001021/,UK
+Charles Chaplin,https://www.imdb.com/name/nm0000122/,UK
+Virginia Cherrill,https://www.imdb.com/name/nm0156039/,USA
+Florence Lee,https://www.imdb.com/name/nm5681967/,USA
+Harry Myers,https://www.imdb.com/name/nm0616729/,USA
+Martin Sheen,https://www.imdb.com/name/nm0000640/,USA
+Marlon Brando,https://www.imdb.com/name/nm0000008/,USA
+Robert Duvall,https://www.imdb.com/name/nm0000380/,USA
+Frederic Forrest,https://www.imdb.com/name/nm0002078/,USA
+Guy Pearce,https://www.imdb.com/name/nm0001602/,UK
+Carrie-Anne Moss,https://www.imdb.com/name/nm0005251/,Canada
+Joe Pantoliano,https://www.imdb.com/name/nm0001592/,USA
+Mark Boone Junior,https://www.imdb.com/name/nm0095478/,USA
+Jamie Foxx,https://www.imdb.com/name/nm0004937/,USA
+Christoph Waltz,https://www.imdb.com/name/nm0910607/,Austria
+Leonardo DiCaprio,https://www.imdb.com/name/nm0000138/,USA
+Harrison Ford,https://www.imdb.com/name/nm0000148/,USA
+Karen Allen,https://www.imdb.com/name/nm0000184/,USA
+Paul Freeman,https://www.imdb.com/name/nm0293550/,UK
+Ben Burtt,https://www.imdb.com/name/nm0123785/,USA
+Elissa Knight,https://www.imdb.com/name/nm2264184/,USA
+Jeff Garlin,https://www.imdb.com/name/nm0307531/,USA
+Fred Willard,https://www.imdb.com/name/nm0929609/,USA
+Ulrich Mühe,https://www.imdb.com/name/nm0618057/,East Germany
+Martina Gedeck,https://www.imdb.com/name/nm0311476/,West Germany
+Sebastian Koch,https://www.imdb.com/name/nm0462407/,Germany
+Ulrich Tukur,https://www.imdb.com/name/nm0876300/,Germany
+William Holden,https://www.imdb.com/name/nm0000034/,USA
+Gloria Swanson,https://www.imdb.com/name/nm0841797/,USA
+Erich von Stroheim,https://www.imdb.com/name/nm0002233/,Austria-Hungary [now Austria]
+Nancy Olson,https://www.imdb.com/name/nm0647970/,USA
+Kirk Douglas,https://www.imdb.com/name/nm0000018/,USA
+Ralph Meeker,https://www.imdb.com/name/nm0576127/,USA
+Adolphe Menjou,https://www.imdb.com/name/nm0579663/,USA
+George Macready,https://www.imdb.com/name/nm0534317/,USA
+Jack Nicholson,https://www.imdb.com/name/nm0000197/,USA
+Shelley Duvall,https://www.imdb.com/name/nm0001167/,USA
+Danny Lloyd,https://www.imdb.com/name/nm0515950/,USA
+Scatman Crothers,https://www.imdb.com/name/nm0001079/,USA
+Charles Chaplin,https://www.imdb.com/name/nm0000122/,UK
+Paulette Goddard,https://www.imdb.com/name/nm0002104/,USA
+Jack Oakie,https://www.imdb.com/name/nm0642988/,USA
+Reginald Gardiner,https://www.imdb.com/name/nm0306786/,UK
+Robert Downey Jr.,https://www.imdb.com/name/nm0000375/,USA
+Chris Hemsworth,https://www.imdb.com/name/nm1165110/,Australia
+Mark Ruffalo,https://www.imdb.com/name/nm0749263/,USA
+Chris Evans,https://www.imdb.com/name/nm0262635/,USA
+Tyrone Power,https://www.imdb.com/name/nm0000061/,USA
+Marlene Dietrich,https://www.imdb.com/name/nm0000017/,Germany]
+Charles Laughton,https://www.imdb.com/name/nm0001452/,UK
+Elsa Lanchester,https://www.imdb.com/name/nm0006471/,UK
+Sigourney Weaver,https://www.imdb.com/name/nm0000244/,USA
+Michael Biehn,https://www.imdb.com/name/nm0000299/,USA
+Carrie Henn,https://www.imdb.com/name/nm0001343/,USA
+Paul Reiser,https://www.imdb.com/name/nm0001663/,USA
+Shameik Moore,https://www.imdb.com/name/nm4271336/,USA
+Jake Johnson,https://www.imdb.com/name/nm2159926/,USA
+Hailee Steinfeld,https://www.imdb.com/name/nm2794962/,USA
+Mahershala Ali,https://www.imdb.com/name/nm0991810/,USA
+Stars Kevin Spacey,https://www.imdb.com/name/nm0000228/,USA
+Annette Bening,https://www.imdb.com/name/nm0000906/,USA
+Thora Birch,https://www.imdb.com/name/nm0000301/,USA
+Peter Sellers,https://www.imdb.com/name/nm0000634/,UK
+George C. Scott,https://www.imdb.com/name/nm0001715/,USA
+Sterling Hayden,https://www.imdb.com/name/nm0001330/,USA
+Keenan Wynn,https://www.imdb.com/name/nm0943978/,USA
+Christian Bale,https://www.imdb.com/name/nm0000288/,UK
+Tom Hardy,https://www.imdb.com/name/nm0362766/,UK
+Anne Hathaway,https://www.imdb.com/name/nm0004266/,USA
+Gary Oldman,https://www.imdb.com/name/nm0000198/,UK
+Choi Min-sik,https://www.imdb.com/name/nm0158856/,South Korea
+Yoo Ji-tae,https://www.imdb.com/name/nm0949167/,South Korea
+Kang Hye-jeong,https://www.imdb.com/name/nm1367246/,South Korea
+Kim Byeong-Ok,https://www.imdb.com/name/nm1366028/,South Korea
+Brad Pitt,https://www.imdb.com/name/nm0000093/,USA
+Diane Kruger,https://www.imdb.com/name/nm1208167/,West Germany
+Eli Roth,https://www.imdb.com/name/nm0744834/,USA
+Mélanie Laurent,https://www.imdb.com/name/nm0491259/,France
+F. Murray Abraham,https://www.imdb.com/name/nm0000719/,USA
+Tom Hulce,https://www.imdb.com/name/nm0001371/,USA
+Elizabeth Berridge,https://www.imdb.com/name/nm0000931/,USA
+Roy Dotrice,https://www.imdb.com/name/nm0234541/,UK
+Anthony Gonzalez,https://www.imdb.com/name/nm5645519/,USA
+Gael García Bernal,https://www.imdb.com/name/nm0305558/,Mexico
+Benjamin Bratt,https://www.imdb.com/name/nm0000973/,USA
+Alanna Ubach,https://www.imdb.com/name/nm0005513/,USA
+Tom Hanks,https://www.imdb.com/name/nm0000158/,USA
+Tim Allen,https://www.imdb.com/name/nm0000741/,USA
+Don Rickles,https://www.imdb.com/name/nm0725543/,USA
+Jim Varney,https://www.imdb.com/name/nm0001815/,USA
+Joaquin Phoenix,https://www.imdb.com/name/nm0001618/,Puerto Rico
+Robert De Niro,https://www.imdb.com/name/nm0000134/,USA
+Zazie Beetz,https://www.imdb.com/name/nm5939164/,Germany
+Frances Conroy,https://www.imdb.com/name/nm0175814/,USA
+Mel Gibson,https://www.imdb.com/name/nm0000154/,USA
+Sophie Marceau,https://www.imdb.com/name/nm0000521/,France
+Patrick McGoohan,https://www.imdb.com/name/nm0001526/,USA
+Angus Macfadyen,https://www.imdb.com/name/nm0005171/,UK
+Jürgen Prochnow,https://www.imdb.com/name/nm0001638/,Germany
+Herbert Grönemeyer,https://www.imdb.com/name/nm0344963/,Germany
+Klaus Wennemann,https://www.imdb.com/name/nm0921044/,Germany
+Hubertus Bengsch,https://www.imdb.com/name/nm0071059/,Germany
+Robert Downey Jr.,https://www.imdb.com/name/nm0000375/,USA
+Chris Evans,https://www.imdb.com/name/nm0262635/,USA
+Mark Ruffalo,https://www.imdb.com/name/nm0749263/,USA
+Chris Hemsworth,https://www.imdb.com/name/nm1165110/,Australia
+Yôji Matsuda,https://www.imdb.com/name/nm0559444/,Japan
+Yuriko Ishida,https://www.imdb.com/name/nm0410942/,Japan
+Yûko Tanaka,https://www.imdb.com/name/nm0849100/,Japan
+Billy Crudup,https://www.imdb.com/name/nm0001082/,USA
+Robert De Niro,https://www.imdb.com/name/nm0000134/,USA
+James Woods,https://www.imdb.com/name/nm0000249/,USA
+Elizabeth McGovern,https://www.imdb.com/name/nm0001527/,USA
+Treat Williams,https://www.imdb.com/name/nm0001852/,USA
+Robin Williams,https://www.imdb.com/name/nm0000245/,USA
+Matt Damon,https://www.imdb.com/name/nm0000354/,USA
+Ben Affleck,https://www.imdb.com/name/nm0000255/,USA
+Stellan Skarsgård,https://www.imdb.com/name/nm0001745/,Sweden
+Ryunosuke Kamiki,https://www.imdb.com/name/nm1126340/,Japan
+Mone Kamishiraishi,https://www.imdb.com/name/nm4759838/,Japan
+Ryo Narita,https://www.imdb.com/name/nm6954008/,Japan
+Aoi Yûki,https://www.imdb.com/name/nm2976492/,Japan
+Aamir Khan,https://www.imdb.com/name/nm0451148/,India
+Madhavan,https://www.imdb.com/name/nm0534856/,India
+Mona Singh,https://www.imdb.com/name/nm1587175,India
+Gene Kelly,https://www.imdb.com/name/nm0000037/,USA
+Donald O'Connor,https://www.imdb.com/name/nm0640307/,USA
+Debbie Reynolds,https://www.imdb.com/name/nm0001666/,USA
+Jean Hagen,https://www.imdb.com/name/nm0353405/,USA
+Tom Hanks,https://www.imdb.com/name/nm0000158/,USA
+Tim Allen,https://www.imdb.com/name/nm0000741/,USA
+Joan Cusack,https://www.imdb.com/name/nm0000349/,USA
+Ned Beatty,https://www.imdb.com/name/nm0000885/,USA
+Toshirô Mifune,https://www.imdb.com/name/nm0001536/,China]
+Yutaka Sada,https://www.imdb.com/name/nm0755403/,Japan
+Tatsuya Nakadai,https://www.imdb.com/name/nm0619938/,Japan
+Kyôko Kagawa,https://www.imdb.com/name/nm0434593/,Japan
+Mark Hamill,https://www.imdb.com/name/nm0000434/,USA
+Harrison Ford,https://www.imdb.com/name/nm0000148/,USA
+Carrie Fisher,https://www.imdb.com/name/nm0000402/,USA
+Billy Dee Williams,https://www.imdb.com/name/nm0001850/,USA
+Jim Carrey,https://www.imdb.com/name/nm0000120/,Canada
+Kate Winslet,https://www.imdb.com/name/nm0000701/,UK
+Tom Wilkinson,https://www.imdb.com/name/nm0929489/,UK
+Gerry Robert Byrne,https://www.imdb.com/name/nm0004423/,NA
+Keir Dullea,https://www.imdb.com/name/nm0001158/,USA
+Gary Lockwood,https://www.imdb.com/name/nm0516972/,USA
+William Sylvester,https://www.imdb.com/name/nm0843213/,USA
+Daniel Richter,https://www.imdb.com/name/nm0725220/,USA
+Harvey Keitel,https://www.imdb.com/name/nm0000172/,USA
+Tim Roth,https://www.imdb.com/name/nm0000619/,UK
+Michael Madsen,https://www.imdb.com/name/nm0000514/,USA
+Chris Penn,https://www.imdb.com/name/nm0001606/,USA
+Aleksey Kravchenko,https://www.imdb.com/name/nm0470385/,USSR [now Russia]
+Olga Mironova,https://www.imdb.com/name/nm0592500/,NA
+Liubomiras Laucevicius,https://www.imdb.com/name/nm0490708/,USSR
+Vladas Bagdonas,https://www.imdb.com/name/nm0046575/,USSR [now Lithuania]
+Guillaume Beylard,https://www.imdb.com/name/nm3149759/,France
+Zuriel De Peslouan,https://www.imdb.com/name/nm1185889/,NA
+Sarah Lucide,https://www.imdb.com/name/nm5220766/,NA
+Jellali Mouina,https://www.imdb.com/name/nm4341376/,NA
+Orson Welles,https://www.imdb.com/name/nm0000080/,USA
+Joseph Cotten,https://www.imdb.com/name/nm0001072/,USA
+Dorothy Comingore,https://www.imdb.com/name/nm0173827/,USA
+Agnes Moorehead,https://www.imdb.com/name/nm0001547/,USA
+Peter Lorre,https://www.imdb.com/name/nm0000048/,Slovakia]
+Ellen Widmann,https://www.imdb.com/name/nm0927145/,Switzerland
+Inge Landgut,https://www.imdb.com/name/nm0484737/,Germany
+Otto Wernicke,https://www.imdb.com/name/nm0921532/,Germany
+Peter O'Toole,https://www.imdb.com/name/nm0000564/,UK
+Alec Guinness,https://www.imdb.com/name/nm0000027/,UK
+Anthony Quinn,https://www.imdb.com/name/nm0000063/,Mexico
+Jack Hawkins,https://www.imdb.com/name/nm0370144/,UK
+Cary Grant,https://www.imdb.com/name/nm0000026/,UK
+Eva Marie Saint,https://www.imdb.com/name/nm0001693/,USA
+James Mason,https://www.imdb.com/name/nm0000051/,UK
+Jessie Royce Landis,https://www.imdb.com/name/nm0484829/,USA
+James Stewart,https://www.imdb.com/name/nm0000071/,USA
+Kim Novak,https://www.imdb.com/name/nm0001571/,USA
+Barbara Bel Geddes,https://www.imdb.com/name/nm0000895/,USA
+Tom Helmore,https://www.imdb.com/name/nm0375738/,UK
+Audrey Tautou,https://www.imdb.com/name/nm0851582/,France
+Mathieu Kassovitz,https://www.imdb.com/name/nm0440913/,France
+Rufus,https://www.imdb.com/name/nm0749363/,France
+Lorella Cravotta,https://www.imdb.com/name/nm0186677/,NA
+Jack Lemmon,https://www.imdb.com/name/nm0000493/,USA
+Shirley MacLaine,https://www.imdb.com/name/nm0000511/,USA
+Fred MacMurray,https://www.imdb.com/name/nm0534045/,USA
+Ray Walston,https://www.imdb.com/name/nm0001827/,USA
+Malcolm McDowell,https://www.imdb.com/name/nm0000532/,UK
+Patrick Magee,https://www.imdb.com/name/nm0535861/,UK
+Michael Bates,https://www.imdb.com/name/nm0060988/,British India
+Warren Clarke,https://www.imdb.com/name/nm0165049/,UK
+Fred MacMurray,https://www.imdb.com/name/nm0534045/,USA
+Barbara Stanwyck,https://www.imdb.com/name/nm0001766/,USA
+Edward G. Robinson,https://www.imdb.com/name/nm0000064/,Romania
+Byron Barr,https://www.imdb.com/name/nm0056477/,USA
+Matthew Modine,https://www.imdb.com/name/nm0000546/,USA
+R. Lee Ermey,https://www.imdb.com/name/nm0000388/,USA
+Vincent D'Onofrio,https://www.imdb.com/name/nm0000352/,USA
+Adam Baldwin,https://www.imdb.com/name/nm0000284/,USA
+Tom Cruise,https://www.imdb.com/name/nm0000129/,USA
+Jennifer Connelly,https://www.imdb.com/name/nm0000124/,USA
+Miles Teller,https://www.imdb.com/name/nm1886602/,USA
+Val Kilmer,https://www.imdb.com/name/nm0000174/,USA
+Al Pacino,https://www.imdb.com/name/nm0000199/,USA
+Michelle Pfeiffer,https://www.imdb.com/name/nm0000201/,USA
+Steven Bauer,https://www.imdb.com/name/nm0000874/,Cuba
+Mary Elizabeth Mastrantonio,https://www.imdb.com/name/nm0001512/,USA
+Lin-Manuel Miranda,https://www.imdb.com/name/nm0592135/,USA
+Phillipa Soo,https://www.imdb.com/name/nm5623883/,USA
+Leslie Odom Jr.,https://www.imdb.com/name/nm1502434/,USA
+Renée Elise Goldsberry,https://www.imdb.com/name/nm0325989/,USA
+Lubna Azabal,https://www.imdb.com/name/nm0044073/,Belgium
+Mélissa Désormeaux-Poulin,https://www.imdb.com/name/nm0246386/,NA
+Maxim Gaudette,https://www.imdb.com/name/nm0309945/,Canada
+Mustafa Kamel,https://www.imdb.com/name/nm1323233/,NA
+Gregory Peck,https://www.imdb.com/name/nm0000060/,USA
+John Megna,https://www.imdb.com/name/nm0576345/,USA
+Frank Overton,https://www.imdb.com/name/nm0653942/,USA
+Rosemary Murphy,https://www.imdb.com/name/nm0614677/,Germany
+Al Pacino,https://www.imdb.com/name/nm0000199/,USA
+Robert De Niro,https://www.imdb.com/name/nm0000134/,USA
+Val Kilmer,https://www.imdb.com/name/nm0000174/,USA
+Jon Voight,https://www.imdb.com/name/nm0000685/,USA
+Paul Newman,https://www.imdb.com/name/nm0000056/,USA
+Robert Redford,https://www.imdb.com/name/nm0000602/,USA
+Robert Shaw,https://www.imdb.com/name/nm0001727/,UK
+Charles Durning,https://www.imdb.com/name/nm0001164/,USA
+Edward Asner,https://www.imdb.com/name/nm0000799/,USA
+Jordan Nagai,https://www.imdb.com/name/nm2973712/,USA
+John Ratzenberger,https://www.imdb.com/name/nm0001652/,USA
+Christopher Plummer,https://www.imdb.com/name/nm0001626/,Canada
+Brigitte Helm,https://www.imdb.com/name/nm0375609/,Germany
+Alfred Abel,https://www.imdb.com/name/nm0002154/,Germany
+Gustav Fröhlich,https://www.imdb.com/name/nm0297054/,Germany
+Rudolf Klein-Rogge,https://www.imdb.com/name/nm0459030/,Germany
+Robert De Niro,https://www.imdb.com/name/nm0000134/,USA
+Jodie Foster,https://www.imdb.com/name/nm0000149/,USA
+Cybill Shepherd,https://www.imdb.com/name/nm0001732/,USA
+Albert Brooks,https://www.imdb.com/name/nm0000983/,USA
+Kevin Spacey,https://www.imdb.com/name/nm0000228/,USA
+Russell Crowe,https://www.imdb.com/name/nm0000128/,New Zealand
+Guy Pearce,https://www.imdb.com/name/nm0001602/,UK
+Kim Basinger,https://www.imdb.com/name/nm0000107/,USA
+Bruce Willis,https://www.imdb.com/name/nm0000246/,West Germany
+Alan Rickman,https://www.imdb.com/name/nm0000614/,UK
+Bonnie Bedelia,https://www.imdb.com/name/nm0000889/,USA
+Reginald VelJohnson,https://www.imdb.com/name/nm0001817/,USA
+Jason Statham,https://www.imdb.com/name/nm0005458/,UK
+Brad Pitt,https://www.imdb.com/name/nm0000093/,USA
+Stephen Graham,https://www.imdb.com/name/nm0334318/,UK
+Vinnie Jones,https://www.imdb.com/name/nm0005068/,UK
+Harrison Ford,https://www.imdb.com/name/nm0000148/,USA
+Sean Connery,https://www.imdb.com/name/nm0000125/,UK
+Alison Doody,https://www.imdb.com/name/nm0233145/,Ireland
+Denholm Elliott,https://www.imdb.com/name/nm0001186/,UK
+Darsheel Safary,https://www.imdb.com/name/nm2594301/,India
+Aamir Khan,https://www.imdb.com/name/nm0451148/,India
+Tisca Chopra,https://www.imdb.com/name/nm1538116/,India
+Vipin Sharma,https://www.imdb.com/name/nm1479650/,India
+Dean-Charles Chapman,https://www.imdb.com/name/nm2835616/,UK
+George MacKay,https://www.imdb.com/name/nm1126657/,UK
+Daniel Mays,https://www.imdb.com/name/nm0990547/,UK
+Colin Firth,https://www.imdb.com/name/nm0000147/,UK
+Bruno Ganz,https://www.imdb.com/name/nm0004486/,Switzerland
+Alexandra Maria Lara,https://www.imdb.com/name/nm0487884/,Romania
+Ulrich Matthes,https://www.imdb.com/name/nm0559890/,West Germany
+Juliane Köhler,https://www.imdb.com/name/nm0477810/,Germany
+Aamir Khan,https://www.imdb.com/name/nm0451148/,India
+Sakshi Tanwar,https://www.imdb.com/name/nm2799219/,India
+Fatima Sana Shaikh,https://www.imdb.com/name/nm0760778/,India
+Sanya Malhotra,https://www.imdb.com/name/nm7621667/,India
+Christian Bale,https://www.imdb.com/name/nm0000288/,UK
+Michael Caine,https://www.imdb.com/name/nm0000323/,UK
+Ken Watanabe,https://www.imdb.com/name/nm0913822/,Japan
+Liam Neeson,https://www.imdb.com/name/nm0000553/,UK
+Charles Chaplin,https://www.imdb.com/name/nm0000122/,UK
+Edna Purviance,https://www.imdb.com/name/nm0701012/,USA
+Jackie Coogan,https://www.imdb.com/name/nm0001067/,USA
+Carl Miller,https://www.imdb.com/name/nm0588033/,USA
+Marilyn Monroe,https://www.imdb.com/name/nm0000054/,USA
+Tony Curtis,https://www.imdb.com/name/nm0000348/,USA
+Jack Lemmon,https://www.imdb.com/name/nm0000493/,USA
+George Raft,https://www.imdb.com/name/nm0706368/,USA
+Anthony Hopkins,https://www.imdb.com/name/nm0000164/,UK
+Olivia Colman,https://www.imdb.com/name/nm1469236/,UK
+Mark Gatiss,https://www.imdb.com/name/nm0309693/,UK
+Olivia Williams,https://www.imdb.com/name/nm0931404/,UK
+Leonardo DiCaprio,https://www.imdb.com/name/nm0000138/,USA
+Jonah Hill,https://www.imdb.com/name/nm1706767/,USA
+Margot Robbie,https://www.imdb.com/name/nm3053338/,Australia
+Matthew McConaughey,https://www.imdb.com/name/nm0000190/,USA
+Viggo Mortensen,https://www.imdb.com/name/nm0001557/,USA
+Mahershala Ali,https://www.imdb.com/name/nm0991810/,USA
+Linda Cardellini,https://www.imdb.com/name/nm0004802/,USA
+Sebastian Maniscalco,https://www.imdb.com/name/nm1724319/,USA
+Spencer Tracy,https://www.imdb.com/name/nm0000075/,USA
+Burt Lancaster,https://www.imdb.com/name/nm0000044/,USA
+Richard Widmark,https://www.imdb.com/name/nm0001847/,USA
+Marlene Dietrich,https://www.imdb.com/name/nm0000017/,Germany]
+Robert De Niro,https://www.imdb.com/name/nm0000134/,USA
+Sharon Stone,https://www.imdb.com/name/nm0000232/,USA
+Joe Pesci,https://www.imdb.com/name/nm0000582/,USA
+James Woods,https://www.imdb.com/name/nm0000249/,USA
+Tatsuya Nakadai,https://www.imdb.com/name/nm0619938/,Japan
+Akira Terao,https://www.imdb.com/name/nm0855417/,Japan
+Jinpachi Nezu,https://www.imdb.com/name/nm0628704/,Japan
+Daisuke Ryû,https://www.imdb.com/name/nm0753480/,Japan
+Ivana Baquero,https://www.imdb.com/name/nm1419440/,Spain
+Ariadna Gil,https://www.imdb.com/name/nm0317725/,Spain
+Sergi López,https://www.imdb.com/name/nm0530365/,Spain
+Maribel Verdú,https://www.imdb.com/name/nm0893941/,Spain
+Bruce Willis,https://www.imdb.com/name/nm0000246/,West Germany
+Haley Joel Osment,https://www.imdb.com/name/nm0005286/,USA
+Toni Collette,https://www.imdb.com/name/nm0001057/,Australia
+Olivia Williams,https://www.imdb.com/name/nm0931404/,UK
+Leonardo DiCaprio,https://www.imdb.com/name/nm0000138/,USA
+Emily Mortimer,https://www.imdb.com/name/nm0607865/,UK
+Mark Ruffalo,https://www.imdb.com/name/nm0749263/,USA
+Ben Kingsley,https://www.imdb.com/name/nm0001426/,UK
+Russell Crowe,https://www.imdb.com/name/nm0000128/,New Zealand
+Ed Harris,https://www.imdb.com/name/nm0000438/,USA
+Jennifer Connelly,https://www.imdb.com/name/nm0000124/,USA
+Christopher Plummer,https://www.imdb.com/name/nm0001626/,Canada
+Sam Neill,https://www.imdb.com/name/nm0000554/,UK
+Laura Dern,https://www.imdb.com/name/nm0000368/,USA
+Jeff Goldblum,https://www.imdb.com/name/nm0000156/,USA
+Richard Attenborough,https://www.imdb.com/name/nm0000277/,UK
+Toshirô Mifune,https://www.imdb.com/name/nm0001536/,China]
+Eijirô Tôno,https://www.imdb.com/name/nm0867391/,Japan
+Tatsuya Nakadai,https://www.imdb.com/name/nm0619938/,Japan
+Yôko Tsukasa,https://www.imdb.com/name/nm0875362/,Japan
+Humphrey Bogart,https://www.imdb.com/name/nm0000007/,USA
+Walter Huston,https://www.imdb.com/name/nm0404158/,Canada
+Tim Holt,https://www.imdb.com/name/nm0392529/,USA
+Bruce Bennett,https://www.imdb.com/name/nm0071636/,USA
+Graham Chapman,https://www.imdb.com/name/nm0001037/,UK
+John Cleese,https://www.imdb.com/name/nm0000092/,UK
+Eric Idle,https://www.imdb.com/name/nm0001385/,UK
+Terry Gilliam,https://www.imdb.com/name/nm0000416/,USA
+Steve McQueen,https://www.imdb.com/name/nm0000537/,USA
+James Garner,https://www.imdb.com/name/nm0001258/,USA
+Richard Attenborough,https://www.imdb.com/name/nm0000277/,UK
+Charles Bronson,https://www.imdb.com/name/nm0000314/,USA
+Tommy Lee Jones,https://www.imdb.com/name/nm0000169/,USA
+Javier Bardem,https://www.imdb.com/name/nm0000849/,Spain
+Josh Brolin,https://www.imdb.com/name/nm0000982/,USA
+Woody Harrelson,https://www.imdb.com/name/nm0000437/,USA
+Tom Holland,https://www.imdb.com/name/nm4043618/,UK
+Zendaya,https://www.imdb.com/name/nm3918035/,USA
+Benedict Cumberbatch,https://www.imdb.com/name/nm1212722/,UK
+Jacob Batalon,https://www.imdb.com/name/nm8188622/,USA
+Uma Thurman,https://www.imdb.com/name/nm0000235/,USA
+David Carradine,https://www.imdb.com/name/nm0001016/,USA
+Daryl Hannah,https://www.imdb.com/name/nm0000435/,USA
+Michael Madsen,https://www.imdb.com/name/nm0000514/,USA
+Toshirô Mifune,https://www.imdb.com/name/nm0001536/,China]
+Machiko Kyô,https://www.imdb.com/name/nm0477553/,Japan
+Masayuki Mori,https://www.imdb.com/name/nm0605270/,Japan
+Takashi Shimura,https://www.imdb.com/name/nm0793766/,Japan
+Kurt Russell,https://www.imdb.com/name/nm0000621/,USA
+Wilford Brimley,https://www.imdb.com/name/nm0000979/,USA
+Keith David,https://www.imdb.com/name/nm0202966/,USA
+Richard Masur,https://www.imdb.com/name/nm0557956/,USA
+Albert Brooks,https://www.imdb.com/name/nm0000983/,USA
+Ellen DeGeneres,https://www.imdb.com/name/nm0001122/,USA
+Alexander Gould,https://www.imdb.com/name/nm1071252/,USA
+Willem Dafoe,https://www.imdb.com/name/nm0000353/,USA
+Anthony Hopkins,https://www.imdb.com/name/nm0000164/,UK
+John Hurt,https://www.imdb.com/name/nm0000457/,UK
+Anne Bancroft,https://www.imdb.com/name/nm0000843/,USA
+John Gielgud,https://www.imdb.com/name/nm0000024/,UK
+Jack Nicholson,https://www.imdb.com/name/nm0000197/,USA
+Faye Dunaway,https://www.imdb.com/name/nm0001159/,USA
+John Huston,https://www.imdb.com/name/nm0001379/,USA
+Perry Lopez,https://www.imdb.com/name/nm0520164/,USA
+Robert De Niro,https://www.imdb.com/name/nm0000134/,USA
+Cathy Moriarty,https://www.imdb.com/name/nm0001550/,USA
+Joe Pesci,https://www.imdb.com/name/nm0000582/,USA
+Frank Vincent,https://www.imdb.com/name/nm0898634/,USA
+Hugo Weaving,https://www.imdb.com/name/nm0915989/,Nigeria
+Natalie Portman,https://www.imdb.com/name/nm0000204/,Israel
+Rupert Graves,https://www.imdb.com/name/nm0001291/,UK
+Stephen Rea,https://www.imdb.com/name/nm0001653/,UK
+Clark Gable,https://www.imdb.com/name/nm0000022/,USA
+Vivien Leigh,https://www.imdb.com/name/nm0000046/,India]
+Thomas Mitchell,https://www.imdb.com/name/nm0593775/,USA
+Barbara O'Neil,https://www.imdb.com/name/nm0641966/,USA
+Jason Flemyng,https://www.imdb.com/name/nm0002076/,UK
+Dexter Fletcher,https://www.imdb.com/name/nm0002077/,UK
+Nick Moran,https://www.imdb.com/name/nm0602941/,UK
+Jason Statham,https://www.imdb.com/name/nm0005458/,UK
+Amy Poehler,https://www.imdb.com/name/nm0688132/,USA
+Bill Hader,https://www.imdb.com/name/nm0352778/,USA
+Lewis Black,https://www.imdb.com/name/nm0085400/,USA
+Mindy Kaling,https://www.imdb.com/name/nm1411676/,USA
+Ray Milland,https://www.imdb.com/name/nm0001537/,UK
+Grace Kelly,https://www.imdb.com/name/nm0000038/,USA
+Robert Cummings,https://www.imdb.com/name/nm0191950/,USA
+John Williams,https://www.imdb.com/name/nm0002369/,UK
+Ricardo Darín,https://www.imdb.com/name/nm0201857/,Argentina
+Soledad Villamil,https://www.imdb.com/name/nm0897845/,Argentina
+Pablo Rago,https://www.imdb.com/name/nm0706567/,Argentina
+Carla Quevedo,https://www.imdb.com/name/nm3587952/,Argentina
+Chieko Baisho,https://www.imdb.com/name/nm0047962/,Japan
+Takuya Kimura,https://www.imdb.com/name/nm0454120/,Japan
+Tatsuya Gashûin,https://www.imdb.com/name/nm0309107/,Japan
+Akihiro Miwa,https://www.imdb.com/name/nm0594271/,Japan
+Frances McDormand,https://www.imdb.com/name/nm0000531/,USA
+Woody Harrelson,https://www.imdb.com/name/nm0000437/,USA
+Sam Rockwell,https://www.imdb.com/name/nm0005377/,USA
+Caleb Landry Jones,https://www.imdb.com/name/nm2655177/,USA
+William Holden,https://www.imdb.com/name/nm0000034/,USA
+Alec Guinness,https://www.imdb.com/name/nm0000027/,UK
+Jack Hawkins,https://www.imdb.com/name/nm0370144/,UK
+Sessue Hayakawa,https://www.imdb.com/name/nm0370564/,Japan
+Hugh Jackman,https://www.imdb.com/name/nm0413168/,Australia
+Jake Gyllenhaal,https://www.imdb.com/name/nm0350453/,USA
+Viola Davis,https://www.imdb.com/name/nm0205626/,USA
+Melissa Leo,https://www.imdb.com/name/nm0502425/,USA
+Tom Hardy,https://www.imdb.com/name/nm0362766/,UK
+Nick Nolte,https://www.imdb.com/name/nm0000560/,USA
+Joel Edgerton,https://www.imdb.com/name/nm0249291/,Australia
+Jennifer Morrison,https://www.imdb.com/name/nm0607185/,USA
+William H. Macy,https://www.imdb.com/name/nm0000513/,USA
+Frances McDormand,https://www.imdb.com/name/nm0000531/,USA
+Steve Buscemi,https://www.imdb.com/name/nm0000114/,USA
+Peter Stormare,https://www.imdb.com/name/nm0001780/,Sweden
+Hitoshi Takagi,https://www.imdb.com/name/nm0847054/,NA
+Noriko Hidaka,https://www.imdb.com/name/nm0383022/,Japan
+Chika Sakamoto,https://www.imdb.com/name/nm0757076/,Japan
+Shigesato Itoi,https://www.imdb.com/name/nm0411790/,Japan
+Leonardo DiCaprio,https://www.imdb.com/name/nm0000138/,USA
+Tom Hanks,https://www.imdb.com/name/nm0000158/,USA
+Christopher Walken,https://www.imdb.com/name/nm0000686/,USA
+Martin Sheen,https://www.imdb.com/name/nm0000640/,USA
+Hilary Swank,https://www.imdb.com/name/nm0005476/,USA
+Clint Eastwood,https://www.imdb.com/name/nm0000142/,USA
+Morgan Freeman,https://www.imdb.com/name/nm0000151/,USA
+Jay Baruchel,https://www.imdb.com/name/nm0059431/,Canada
+Mohammad Amir Naji,https://www.imdb.com/name/nm0619870/,NA
+Amir Farrokh Hashemian,https://www.imdb.com/name/nm0268488/,NA
+Bahare Seddiqi,https://www.imdb.com/name/nm0781245/,NA
+Nafise Jafar-Mohammadi,https://www.imdb.com/name/nm0415412/,NA
+Harrison Ford,https://www.imdb.com/name/nm0000148/,USA
+Rutger Hauer,https://www.imdb.com/name/nm0000442/,Netherlands
+Sean Young,https://www.imdb.com/name/nm0000707/,USA
+Edward James Olmos,https://www.imdb.com/name/nm0001579/,USA
+Charles Chaplin,https://www.imdb.com/name/nm0000122/,UK
+Mack Swain,https://www.imdb.com/name/nm0841501/,USA
+Tom Murray,https://www.imdb.com/name/nm0615306/,USA
+Henry Bergman,https://www.imdb.com/name/nm0074788/,USA
+Ethan Hawke,https://www.imdb.com/name/nm0000160/,USA
+Julie Delpy,https://www.imdb.com/name/nm0000365/,France
+Andrea Eckert,https://www.imdb.com/name/nm0248600/,Austria
+Hanno Pöschl,https://www.imdb.com/name/nm0702541/,Austria
+Chiwetel Ejiofor,https://www.imdb.com/name/nm0252230/,UK
+Michael Kenneth Williams,https://www.imdb.com/name/nm0931324/,USA
+Michael Fassbender,https://www.imdb.com/name/nm1055413/,West Germany
+Brad Pitt,https://www.imdb.com/name/nm0000093/,USA
+Jason Schwartzman,https://www.imdb.com/name/nm0005403/,USA
+J.K. Simmons,https://www.imdb.com/name/nm0799777/,USA
+Rashida Jones,https://www.imdb.com/name/nm0429069/,USA
+Will Sasso,https://www.imdb.com/name/nm0766005/,Canada
+Daniel Radcliffe,https://www.imdb.com/name/nm0705356/,UK
+Emma Watson,https://www.imdb.com/name/nm0914612/,France
+Rupert Grint,https://www.imdb.com/name/nm0342488/,UK
+Michael Gambon,https://www.imdb.com/name/nm0002091/,Ireland
+Marlon Brando,https://www.imdb.com/name/nm0000008/,USA
+Karl Malden,https://www.imdb.com/name/nm0001500/,USA
+Lee J. Cobb,https://www.imdb.com/name/nm0002011/,USA
+Rod Steiger,https://www.imdb.com/name/nm0001768/,USA
+Charlton Heston,https://www.imdb.com/name/nm0000032/,USA
+Jack Hawkins,https://www.imdb.com/name/nm0370144/,UK
+Stephen Boyd,https://www.imdb.com/name/nm0000963/,UK
+Haya Harareet,https://www.imdb.com/name/nm0361823/,Palestine
+Ben Affleck,https://www.imdb.com/name/nm0000255/,USA
+Rosamund Pike,https://www.imdb.com/name/nm0683253/,UK
+Neil Patrick Harris,https://www.imdb.com/name/nm0000439/,USA
+Tyler Perry,https://www.imdb.com/name/nm1347153/,USA
+Ralph Fiennes,https://www.imdb.com/name/nm0000146/,UK
+F. Murray Abraham,https://www.imdb.com/name/nm0000719/,USA
+Mathieu Amalric,https://www.imdb.com/name/nm0023832/,France
+Adrien Brody,https://www.imdb.com/name/nm0004778/,USA
+Victor Sjöström,https://www.imdb.com/name/nm0803705/,Sweden
+Bibi Andersson,https://www.imdb.com/name/nm0000761/,Sweden
+Ingrid Thulin,https://www.imdb.com/name/nm0862026/,Sweden
+Gunnar Björnstrand,https://www.imdb.com/name/nm0085038/,Sweden
+Buster Keaton,https://www.imdb.com/name/nm0000036/,USA
+Marion Mack,https://www.imdb.com/name/nm0533045/,NA
+Glen Cavender,https://www.imdb.com/name/nm0147070/,USA
+Jim Farley,https://www.imdb.com/name/nm0267650/,USA
+Orson Welles,https://www.imdb.com/name/nm0000080/,USA
+Joseph Cotten,https://www.imdb.com/name/nm0001072/,USA
+Alida Valli,https://www.imdb.com/name/nm0885098/,Croatia]
+Trevor Howard,https://www.imdb.com/name/nm0002145/,UK
+Daniel Day-Lewis,https://www.imdb.com/name/nm0000358/,UK
+Pete Postlethwaite,https://www.imdb.com/name/nm0000592/,UK
+Alison Crosbie,https://www.imdb.com/name/nm0188949/,NA
+Philip King,https://www.imdb.com/name/nm2535022/,NA
+Robert De Niro,https://www.imdb.com/name/nm0000134/,USA
+Christopher Walken,https://www.imdb.com/name/nm0000686/,USA
+John Cazale,https://www.imdb.com/name/nm0001030/,USA
+John Savage,https://www.imdb.com/name/nm0001698/,USA
+Ryan O'Neal,https://www.imdb.com/name/nm0641939/,USA
+Marisa Berenson,https://www.imdb.com/name/nm0001943/,USA
+Patrick Magee,https://www.imdb.com/name/nm0535861/,UK
+Hardy Krüger,https://www.imdb.com/name/nm0473228/,Germany
+Andrew Garfield,https://www.imdb.com/name/nm1940449/,USA
+Sam Worthington,https://www.imdb.com/name/nm0941777/,UK
+Luke Bracey,https://www.imdb.com/name/nm3478396/,Australia
+Teresa Palmer,https://www.imdb.com/name/nm1954240/,Australia
+Yves Montand,https://www.imdb.com/name/nm0598971/,Italy
+Charles Vanel,https://www.imdb.com/name/nm0889024/,France
+Peter van Eyck,https://www.imdb.com/name/nm0886870/,Poland]
+Folco Lulli,https://www.imdb.com/name/nm0525793/,Italy
+Song Kang-ho,https://www.imdb.com/name/nm0814280/,South Korea
+Kim Sang-kyung,https://www.imdb.com/name/nm1235292/,South Korea
+Roe-ha Kim,https://www.imdb.com/name/nm1323287/,South Korea
+Jae-ho Song,https://www.imdb.com/name/nm1138201/,Korea
+Buster Keaton,https://www.imdb.com/name/nm0000036/,USA
+Kathryn McGuire,https://www.imdb.com/name/nm0570230/,USA
+Joe Keaton,https://www.imdb.com/name/nm0444172/,USA
+Erwin Connelly,https://www.imdb.com/name/nm0175068/,USA
+Darío Grandinetti,https://www.imdb.com/name/nm0334882/,Argentina
+María Marull,https://www.imdb.com/name/nm0555404/,Argentina
+Mónica Villa,https://www.imdb.com/name/nm0897640/,Argentina
+Diego Starosta,https://www.imdb.com/name/nm0823435/,NA
+Tom Hardy,https://www.imdb.com/name/nm0362766/,UK
+Charlize Theron,https://www.imdb.com/name/nm0000234/,South Africa
+Nicholas Hoult,https://www.imdb.com/name/nm0396558/,UK
+Zoë Kravitz,https://www.imdb.com/name/nm2368789/,USA
+Max von Sydow,https://www.imdb.com/name/nm0001884/,Sweden
+Gunnar Björnstrand,https://www.imdb.com/name/nm0085038/,Sweden
+Bengt Ekerot,https://www.imdb.com/name/nm0252345/,Sweden
+Nils Poppe,https://www.imdb.com/name/nm0691555/,Sweden
+Toni Collette,https://www.imdb.com/name/nm0001057/,Australia
+Philip Seymour Hoffman,https://www.imdb.com/name/nm0000450/,USA
+Eric Bana,https://www.imdb.com/name/nm0051509/,Australia
+Barry Humphries,https://www.imdb.com/name/nm0402032/,Australia
+Jay Baruchel,https://www.imdb.com/name/nm0059431/,Canada
+Gerard Butler,https://www.imdb.com/name/nm0124930/,UK
+Christopher Mintz-Plasse,https://www.imdb.com/name/nm2395586/,USA
+Craig Ferguson,https://www.imdb.com/name/nm0272401/,UK
+Brie Larson,https://www.imdb.com/name/nm0488953/,USA
+Jacob Tremblay,https://www.imdb.com/name/nm5016878/,Canada
+Sean Bridgers,https://www.imdb.com/name/nm0108703/,USA
+Wendy Crewson,https://www.imdb.com/name/nm0187724/,Canada
+Billy Crystal,https://www.imdb.com/name/nm0000345/,USA
+John Goodman,https://www.imdb.com/name/nm0000422/,USA
+Mary Gibbs,https://www.imdb.com/name/nm0316701/,USA
+Steve Buscemi,https://www.imdb.com/name/nm0000114/,USA
+Roy Scheider,https://www.imdb.com/name/nm0001702/,USA
+Robert Shaw,https://www.imdb.com/name/nm0001727/,UK
+Richard Dreyfuss,https://www.imdb.com/name/nm0000377/,USA
+Lorraine Gary,https://www.imdb.com/name/nm0308882/,USA
+Jeff Bridges,https://www.imdb.com/name/nm0000313/,USA
+John Goodman,https://www.imdb.com/name/nm0000422/,USA
+Julianne Moore,https://www.imdb.com/name/nm0000194/,USA
+Steve Buscemi,https://www.imdb.com/name/nm0000114/,USA
+Maria Falconetti,https://www.imdb.com/name/nm0266029/,France
+Eugene Silvain,https://www.imdb.com/name/nm0798564/,France
+André Berley,https://www.imdb.com/name/nm0075551/,France
+Maurice Schutz,https://www.imdb.com/name/nm0776914/,France
+Don Cheadle,https://www.imdb.com/name/nm0000332/,USA
+Sophie Okonedo,https://www.imdb.com/name/nm0645683/,UK
+Joaquin Phoenix,https://www.imdb.com/name/nm0001618/,Puerto Rico
+Xolani Mali,https://www.imdb.com/name/nm1796730/,NA
+Matt Damon,https://www.imdb.com/name/nm0000354/,USA
+Christian Bale,https://www.imdb.com/name/nm0000288/,UK
+Jon Bernthal,https://www.imdb.com/name/nm1256532/,USA
+Caitríona Balfe,https://www.imdb.com/name/nm1495520/,Ireland
+Sylvester Stallone,https://www.imdb.com/name/nm0000230/,USA
+Talia Shire,https://www.imdb.com/name/nm0001735/,USA
+Burt Young,https://www.imdb.com/name/nm0949350/,USA
+Carl Weathers,https://www.imdb.com/name/nm0001835/,USA
+Charlie Sheen,https://www.imdb.com/name/nm0000221/,USA
+Tom Berenger,https://www.imdb.com/name/nm0000297/,USA
+Willem Dafoe,https://www.imdb.com/name/nm0000353/,USA
+Keith David,https://www.imdb.com/name/nm0202966/,USA
+Brad Garrett,https://www.imdb.com/name/nm0004951/,USA
+Lou Romano,https://www.imdb.com/name/nm0738918/,NA
+Patton Oswalt,https://www.imdb.com/name/nm0652663/,USA
+Ian Holm,https://www.imdb.com/name/nm0000453/,UK
+Mark Ruffalo,https://www.imdb.com/name/nm0749263/,USA
+Michael Keaton,https://www.imdb.com/name/nm0000474/,USA
+Rachel McAdams,https://www.imdb.com/name/nm1046097/,Canada
+Liev Schreiber,https://www.imdb.com/name/nm0000630/,USA
+Arnold Schwarzenegger,https://www.imdb.com/name/nm0000216/,Austria
+Linda Hamilton,https://www.imdb.com/name/nm0000157/,USA
+Michael Biehn,https://www.imdb.com/name/nm0000299/,USA
+Paul Winfield,https://www.imdb.com/name/nm0934902/,USA
+Hugh Jackman,https://www.imdb.com/name/nm0413168/,Australia
+Patrick Stewart,https://www.imdb.com/name/nm0001772/,UK
+Dafne Keen,https://www.imdb.com/name/nm6748436/,Spain
+Boyd Holbrook,https://www.imdb.com/name/nm2933542/,USA
+Wil Wheaton,https://www.imdb.com/name/nm0000696/,USA
+River Phoenix,https://www.imdb.com/name/nm0000203/,USA
+Corey Feldman,https://www.imdb.com/name/nm0000397/,USA
+Jerry O'Connell,https://www.imdb.com/name/nm0005278/,USA
+Daniel Brühl,https://www.imdb.com/name/nm0117709/,Spain
+Chris Hemsworth,https://www.imdb.com/name/nm1165110/,Australia
+Olivia Wilde,https://www.imdb.com/name/nm1312575/,USA
+Alexandra Maria Lara,https://www.imdb.com/name/nm0487884/,Romania
+Emile Hirsch,https://www.imdb.com/name/nm0386472/,USA
+Vince Vaughn,https://www.imdb.com/name/nm0000681/,USA
+Catherine Keener,https://www.imdb.com/name/nm0001416/,USA
+Marcia Gay Harden,https://www.imdb.com/name/nm0001315/,USA
+Ethan Hawke,https://www.imdb.com/name/nm0000160/,USA
+Julie Delpy,https://www.imdb.com/name/nm0000365/,France
+Vernon Dobtcheff,https://www.imdb.com/name/nm0229943/,France
+Louise Lemoine Torrès,https://www.imdb.com/name/nm1195302/,NA
+Judy Garland,https://www.imdb.com/name/nm0000023/,USA
+Frank Morgan,https://www.imdb.com/name/nm0604656/,USA
+Ray Bolger,https://www.imdb.com/name/nm0001961/,USA
+Bert Lahr,https://www.imdb.com/name/nm0481618/,USA
+Bill Murray,https://www.imdb.com/name/nm0000195/,USA
+Andie MacDowell,https://www.imdb.com/name/nm0000510/,USA
+Chris Elliott,https://www.imdb.com/name/nm0254402/,USA
+Stephen Tobolowsky,https://www.imdb.com/name/nm0864997/,USA
+Myrna Loy,https://www.imdb.com/name/nm0001485/,USA
+Dana Andrews,https://www.imdb.com/name/nm0000763/,USA
+Fredric March,https://www.imdb.com/name/nm0545298/,USA
+Teresa Wright,https://www.imdb.com/name/nm0942863/,USA
+Ellen Burstyn,https://www.imdb.com/name/nm0000995/,USA
+Max von Sydow,https://www.imdb.com/name/nm0001884/,Sweden
+Linda Blair,https://www.imdb.com/name/nm0000304/,USA
+Lee J. Cobb,https://www.imdb.com/name/nm0002011/,USA
+Craig T. Nelson,https://www.imdb.com/name/nm0005266/,USA
+Samuel L. Jackson,https://www.imdb.com/name/nm0000168/,USA
+Holly Hunter,https://www.imdb.com/name/nm0000456/,USA
+Jason Lee,https://www.imdb.com/name/nm0005134/,USA
+Carole Lombard,https://www.imdb.com/name/nm0001479/,USA
+Jack Benny,https://www.imdb.com/name/nm0000912/,USA
+Robert Stack,https://www.imdb.com/name/nm0821041/,USA
+Felix Bressart,https://www.imdb.com/name/nm0107795/,Russia]
+Vincent Cassel,https://www.imdb.com/name/nm0001993/,France
+Hubert Koundé,https://www.imdb.com/name/nm0468003/,NA
+Saïd Taghmaoui,https://www.imdb.com/name/nm0846548/,France
+Abdel Ahmed Ghili,https://www.imdb.com/name/nm0315760/,NA
+Brahim Hadjadj,https://www.imdb.com/name/nm0352835/,NA
+Jean Martin,https://www.imdb.com/name/nm0552483/,France
+Yacef Saadi,https://www.imdb.com/name/nm0754272/,France [now Algeria]
+Samia Kerbash,https://www.imdb.com/name/nm0449197/,NA
+Johnny Depp,https://www.imdb.com/name/nm0000136/,USA
+Geoffrey Rush,https://www.imdb.com/name/nm0001691/,Australia
+Orlando Bloom,https://www.imdb.com/name/nm0089217/,UK
+Keira Knightley,https://www.imdb.com/name/nm0461136/,UK
+Richard Gere,https://www.imdb.com/name/nm0000152/,USA
+Joan Allen,https://www.imdb.com/name/nm0000260/,USA
+Cary-Hiroyuki Tagawa,https://www.imdb.com/name/nm0846480/,Japan
+Sarah Roemer,https://www.imdb.com/name/nm2105255/,USA
+Suriya,https://www.imdb.com/name/nm1421814/,India
+Lijo Mol Jose,https://www.imdb.com/name/nm7934649/,India
+Manikandan K.,https://www.imdb.com/name/nm8904193/,India
+Rajisha Vijayan,https://www.imdb.com/name/nm8135195/,India
+Çetin Tekindor,https://www.imdb.com/name/nm1002038/,Turkey
+Fikret Kuskan,https://www.imdb.com/name/nm0476334/,Turkey
+Hümeyra,https://www.imdb.com/name/nm0406157/,Turkey
+Ege Tanman,https://www.imdb.com/name/nm2020015/,Turkey
+Emilio Echevarría,https://www.imdb.com/name/nm0248408/,Mexico
+Gael García Bernal,https://www.imdb.com/name/nm0305558/,Mexico
+Goya Toledo,https://www.imdb.com/name/nm0865949/,Spain
+Álvaro Guerrero,https://www.imdb.com/name/nm0346270/,Mexico
+Laurence Olivier,https://www.imdb.com/name/nm0000059/,UK
+Joan Fontaine,https://www.imdb.com/name/nm0000021/,Japan
+George Sanders,https://www.imdb.com/name/nm0001695/,Russian Empire [now Russia]
+Judith Anderson,https://www.imdb.com/name/nm0000752/,Australia
+Paul Newman,https://www.imdb.com/name/nm0000056/,USA
+George Kennedy,https://www.imdb.com/name/nm0001421/,USA
+Strother Martin,https://www.imdb.com/name/nm0001510/,USA
+J.D. Cannon,https://www.imdb.com/name/nm0134201/,USA
+Kim Min-hee,https://www.imdb.com/name/nm1195119/,South Korea
+Ha Jung-woo,https://www.imdb.com/name/nm1978402/,NA
+Cho Jin-woong,https://www.imdb.com/name/nm2437361/,South Korea
+Moon So-ri,https://www.imdb.com/name/nm0600668/,Korea
+Jean-Pierre Léaud,https://www.imdb.com/name/nm0529543/,France
+Albert Rémy,https://www.imdb.com/name/nm0753716/,France
+Claire Maurier,https://www.imdb.com/name/nm0561158/,France
+Guy Decomble,https://www.imdb.com/name/nm0213948/,France
+Julie Andrews,https://www.imdb.com/name/nm0000267/,UK
+Christopher Plummer,https://www.imdb.com/name/nm0001626/,Canada
+Eleanor Parker,https://www.imdb.com/name/nm0662223/,USA
+Richard Haydn,https://www.imdb.com/name/nm0370821/,UK
+Clark Gable,https://www.imdb.com/name/nm0000022/,USA
+Claudette Colbert,https://www.imdb.com/name/nm0001055/,France
+Walter Connolly,https://www.imdb.com/name/nm0175369/,USA
+Roscoe Karns,https://www.imdb.com/name/nm0439850/,USA
+Bibi Andersson,https://www.imdb.com/name/nm0000761/,Sweden
+Liv Ullmann,https://www.imdb.com/name/nm0880521/,Japan
+Margaretha Krook,https://www.imdb.com/name/nm0472234/,Sweden
+Gunnar Björnstrand,https://www.imdb.com/name/nm0085038/,Sweden
+Eli Marienthal,https://www.imdb.com/name/nm0547349/,USA
+Harry Connick Jr.,https://www.imdb.com/name/nm0001065/,USA
+Jennifer Aniston,https://www.imdb.com/name/nm0000098/,USA
+Vin Diesel,https://www.imdb.com/name/nm0004874/,USA
+Maksim Munzuk,https://www.imdb.com/name/nm0613364/,Russia
+Yuriy Solomin,https://www.imdb.com/name/nm0813272/,Russia]
+Mikhail Bychkov,https://www.imdb.com/name/nm0125730/,USSR [now Russia]
+Vladimir Khrulyov,https://www.imdb.com/name/nm1276196/,NA
+Scott Weinger,https://www.imdb.com/name/nm0918334/,USA
+Robin Williams,https://www.imdb.com/name/nm0000245/,USA
+Linda Larkin,https://www.imdb.com/name/nm0488306/,USA
+Jonathan Freeman,https://www.imdb.com/name/nm0293455/,USA
+Ben Kingsley,https://www.imdb.com/name/nm0001426/,UK
+John Gielgud,https://www.imdb.com/name/nm0000024/,UK
+Rohini Hattangadi,https://www.imdb.com/name/nm0368990/,India
+Roshan Seth,https://www.imdb.com/name/nm0786022/,British India
+Kevin Costner,https://www.imdb.com/name/nm0000126/,USA
+Mary McDonnell,https://www.imdb.com/name/nm0001521/,USA
+Graham Greene,https://www.imdb.com/name/nm0001295/,Canada
+Rodney A. Grant,https://www.imdb.com/name/nm0002110/,USA
