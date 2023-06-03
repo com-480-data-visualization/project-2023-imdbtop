@@ -2,11 +2,38 @@ import React, { useEffect, useRef, useState } from 'react';
 import * as d3 from 'd3';
 import { NodeInfo, Image } from './styles/NodeInfo.styled';
 
-const RelationGraph = ({ movies, genre }) => {
+const RelationGraph = ({ movies, genre, allmovies}) => {
   console.log("debug movies", movies);
   const svgRef = useRef(null);
   const [hoveredNode, setHoveredNode] = useState(null);
   const [nodeInfoPosition, setNodeInfoPosition] = useState({ top: 0, left: 0 });
+  const [filteredMovies, setFilteredMovies] = useState([]); 
+
+  const InitialfilterMovies = (genre, movies) => {
+    let tmpMovies = genre ? movies.filter(item => item.genre.indexOf(genre) !== -1) : movies;
+
+    if (tmpMovies.length > 20) {
+      tmpMovies = tmpMovies.sort((a, b) => a.rating - b.rating).slice(0, 20);
+    }
+    setFilteredMovies(tmpMovies);
+  }
+
+  const updateFilterMovies = (movieId) => {
+    const movie = allmovies.find(item => item.id === movieId);
+    if (movie) {
+      const neighborIds = movie.neighbors;
+      const newFilteredMovies = [...filteredMovies];
+      console.log("debug neighborIds", neighborIds)
+      neighborIds.forEach(neighborId => {
+        const neighborMovie = allmovies.find(item => item.id === neighborId);
+        if (neighborMovie && !newFilteredMovies.some(item => item.id === neighborId)) {
+          newFilteredMovies.push(neighborMovie);
+        }
+      });
+      console.log("newFilteredMovies", newFilteredMovies);
+      setFilteredMovies(newFilteredMovies);
+    }
+  };
 
   useEffect(() => {
     const width = 1200;
@@ -15,7 +42,8 @@ const RelationGraph = ({ movies, genre }) => {
 
     const svg = d3.select(svgRef.current)
       .attr('width', width)
-      .attr('height', height);
+      .attr('height', height)
+
 
     // Clear previous graph elements
     svg.selectAll('*').remove();
@@ -27,11 +55,7 @@ const RelationGraph = ({ movies, genre }) => {
 
     console.log("debug here", genre, movies);
 
-    let filteredMovies = genre ? movies.filter(item => item.genre.indexOf(genre) !== -1) : movies;
-
-    if (filteredMovies.length > 20) {
-      filteredMovies = filteredMovies.sort((a, b) => a.rating - b.rating).slice(0, 20);
-    }
+    InitialfilterMovies(genre, movies);
 
     const links = filteredMovies.reduce((acc, movie) => {
       const movieId = movie.id;
@@ -155,6 +179,9 @@ const RelationGraph = ({ movies, genre }) => {
     }
 
     function handleClick(event, d) {
+
+      updateFilterMovies(d.id);
+
       // Update the entire D3 figure
       node.select('circle')
         .transition()

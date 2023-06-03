@@ -41,10 +41,7 @@ function App() {
         />
         <StyledWrapper>
           <Routes>
-            <Route exact path="/" element={<Home />} />
-            <Route exact path="/recommendation" element={<Recommendation/>}>
-              <Route path=":id" element={<Main />} />
-            </Route>
+            <Route exact path="/" element={<MovieGraph/>} />
             <Route path="/*" element={<ErrorPage />} />
             <Route path="/info" element={<Info />} />
             <Route path="vis/MovieMap" element={<MovieMap/>} />

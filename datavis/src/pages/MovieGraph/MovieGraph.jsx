@@ -97,7 +97,7 @@ const MovieGraphVis = () => {
         }}
         setMovies = {handleSearchMovies}
       />
-      <RelationGraph movies={selectedMovies} genre = {request[genreID].label} />
+      <RelationGraph movies={selectedMovies} genre = {request[genreID].label} allmovies = {movies}/>
     </StyledPage>
   );
 };

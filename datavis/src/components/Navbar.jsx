@@ -22,19 +22,9 @@ import Input from "./Input";
 
 const links = [
   {
-    path: "/",
-    label: "Home",
-    exect: "true",
-  },
-  {
-    path: "/recommendation",
-    label: "Recommendation",
-    exect: "false",
-  },
-  {
-    path: "vis/MovieMap",
+    path: "/vis/MovieMap",
     label: "Map",
-    exect: "false",
+    exect: "true",
   },
   {
     path: "/vis/MovieSales",
@@ -81,7 +71,6 @@ const Navbar = ({ colorMode, setColorMode }) => {
             })}
           </StyledNavbarLink>
           <StyledNavbarFeature>
-            <Input />
             <StyledDarkMode
               onClick={modeClickHandler}
               className={colorMode ? "lightMode" : "darkMode"}
