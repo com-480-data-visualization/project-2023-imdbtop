@@ -85,9 +85,16 @@ const WorldMap = (props) => {
           .attr('class', 'qb-worldmap-country')
           .attr('d', path)
           .style('fill', function (d) {
-            return selected_countries.includes(d.id)
-              ? selected_country_color
-              : orginal_country_color;
+            console.log(d.id);
+            console.log(selected_countries)
+          for(var i=0;i<selected_countries.length;i++){
+            console.log(i);
+            if (selected_countries[i].includes(d.id)){
+              console.log(selected_country_color[i],d.id);
+              return selected_country_color[i];
+            }
+          }
+          return orginal_country_color;
           })
           .on('click', (d) => {
             console.log('Click on country', d.target.__data__);
@@ -113,10 +120,17 @@ const WorldMap = (props) => {
               if (x.id === target_country.id) {
                 current_subject = x.id;
                 return clicked_country_color;
-              } else if (selected_countries.includes(x.id)) {
-                return selected_country_color;
+              } else {
+                console.log(x.id);
+          for(var i=0;i<selected_countries.length;i++){
+            console.log(i);
+            if (selected_countries[i].includes(x.id)){
+              console.log(selected_country_color[i],x.id);
+              return selected_country_color[i];
+            }
+          }
+          return orginal_country_color;
               }
-              return orginal_country_color;
             });
 
           d3.transition()
