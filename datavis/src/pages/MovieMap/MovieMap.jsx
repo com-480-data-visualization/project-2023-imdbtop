@@ -1,7 +1,6 @@
-import React, { useEffect } from "react";
+import React, { useEffect, useState } from "react";
 import * as countryCoder from '@rapideditor/country-coder';           // ESM import all
 import { iso1N3Code } from '@rapideditor/country-coder';              // ESM import named
-
 import {
   StyledInfo,
   StyledInfoSection,
@@ -12,6 +11,8 @@ import {
 import { StyledPage } from "../../components/styles/Page.styled";
 import WorldMap from "../../components/WorldMap";
 import logo from "../../assets/main_logo.png";
+import { NodeInfo, Image } from '../../components/styles/NodeInfo.styled';
+
 const countriesList = () => {
   const list=[]
   fetch("/data/star_nation.json", {

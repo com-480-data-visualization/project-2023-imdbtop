@@ -1,8 +1,10 @@
 import React, { useEffect, useRef, useState } from 'react';
 import * as d3 from 'd3';
 import * as topojson from 'topojson';
+import { NodeInfo, Image } from './styles/NodeInfo.styled';
 
 const WorldMap = (props) => {
+  const [nodeInfoPosition, setNodeInfoPosition] = useState({ top: 0, left: 0 });
   const svgRef = useRef(null);
   const {
     world_type,
@@ -146,6 +148,19 @@ const WorldMap = (props) => {
               };
             })
             .transition();
+          
+          // Get the position of the clicked country
+
+          const node = country.node();
+          const { x, y, width, height } = node.getBBox();
+          const containerRect = svgRef.current.getBoundingClientRect();
+          const position = {
+            top: containerRect.top + y + height + 10,
+            left: containerRect.left + x + width / 2,
+          };
+          console.log("debug position", position, country);
+          setNodeInfoPosition(position);
+          
         }
       }
     }
@@ -169,6 +184,9 @@ const WorldMap = (props) => {
     
     <div>
       <svg ref={svgRef}></svg>
+      <NodeInfo style={nodeInfoPosition}>
+        <p> test </p>
+      </NodeInfo>
     </div>
   )
 }

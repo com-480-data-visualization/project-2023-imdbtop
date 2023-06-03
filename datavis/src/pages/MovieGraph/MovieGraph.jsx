@@ -13,40 +13,6 @@ import { request } from "../../data/data";
 import { StyledPage } from "../../components/styles/Page.styled";
 import Aside from "./Aside";
 
-const generateRandomMovieList = length => {
-  const movies = [];
-
-  for (let i = 1; i <= length; i++) {
-    const movie = {
-      id: i,
-      title: `Movie ${i}`,
-      category:  Math.floor(Math.random() * 10) + 1,
-      neighbors: generateRandomNeighbors(length, i),
-      image_url: "https://m.media-amazon.com/images/M/MV5BZTg5ZTVmM2EtZjdhZC00MzBjLWEwZTYtNWIwZDczYzZkMzA4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX45_CR0,0,45,67_AL_.jpg",
-    };
-
-    movies.push(movie);
-  }
-
-  return movies;
-};
-
-const generateRandomNeighbors = (length, currentId) => {
-  const neighbors = [];
-
-  while (neighbors.length < 5) {
-    const randomId = Math.floor(Math.random() * length) + 1;
-
-    if (randomId !== currentId && !neighbors.includes(randomId)) {
-      neighbors.push(randomId);
-    }
-  }
-
-  return neighbors;
-};
-
-const test_category = "Romance"
-
 // Generate a random movie list with a length of 50
 // const movies = generateRandomMovieList(250);
 const MovieGraphVis = () => {
