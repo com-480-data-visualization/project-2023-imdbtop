@@ -16,8 +16,6 @@ import SearchBox from "../../components/SearchBox";
 
 const Aside = ({ movies, genreID, setGenreID, setMovies }) => {
 
-  const [selectedTitle, setSelectedTitle] = useState('');
-
   const handleTitleSelect = (selected) => {
     console.log("debug here here", selected)
     setMovies(selected);
@@ -37,6 +35,7 @@ const Aside = ({ movies, genreID, setGenreID, setMovies }) => {
               key={item.genre}
               onClick={() => {
                 setGenreID(idx);
+                setMovies([]);
               }}
               value={idx}
               className={idx === genreID ? "genre-actived" : ""}

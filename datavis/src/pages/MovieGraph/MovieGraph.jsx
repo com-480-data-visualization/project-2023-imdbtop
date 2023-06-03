@@ -54,9 +54,15 @@ const MovieGraphVis = () => {
   const [movies, setMovies] = useState([]);
   const [isFeteched, setIsFeteched] = useState(false);
   const [selectedMovies, setSelectedMovies] = useState([]);
+
   const handleSearchMovies = (selected) => {
-    console.log("debug handleSearchMovies", selected)
-    setSelectedMovies(selected);
+    // console.log("debug handleSearchMovies", selected)
+    if (selected.length === 0) {
+      setSelectedMovies(movies); 
+    } else {
+      setSelectedMovies(selected);
+      setGenreID(17);
+    }
   };
   
 
