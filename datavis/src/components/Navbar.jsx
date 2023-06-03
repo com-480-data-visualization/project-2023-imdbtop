@@ -27,13 +27,13 @@ const links = [
     exect: "true",
   },
   {
-    path: "/vis/MovieSales",
-    label: "Sales",
+    path: "/vis/MovieGraph",
+    label: "Graph",
     exect: "false",
   },
   {
-    path: "/vis/MovieGraph",
-    label: "Graph",
+    path: "/vis/MovieSales",
+    label: "Exploration",
     exect: "false",
   },
   {

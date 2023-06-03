@@ -1,12 +1,8 @@
 /*
-Page: Recommendation Page
-This page is where users see the results of the movies they searched for.
-
+Movie Statistics  Page
 */
 
 import React, { useEffect } from 'react';
-import Aside from "./Aside";
-import Main from "./Main";
 import {
   StyledInfo,
   StyledInfoSection,
@@ -16,9 +12,7 @@ import {
 } from "../../components/styles/Info.styled";
 import { StyledPage } from "../../components/styles/Page.styled";
 
-
-
-const Recommendation = () => {
+const MovieTimes = () => {
   useEffect(() => {
     const script = document.createElement("script");
 
@@ -29,17 +23,15 @@ const Recommendation = () => {
 
     return () => {
       document.body.removeChild(script);
-    }
+    };
   }, []);
+
   return (
-    <StyledPage>
-      <Aside />
       <div
             className="flourish-embed flourish-hierarchy"
             data-src="visualisation/14006347"
-          />
-    </StyledPage>
+      />
   );
 };
 
-export default Recommendation;
+export default MovieTimes;

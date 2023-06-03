@@ -12,17 +12,12 @@ import { ThemeProvider } from "styled-components";
 import { darkMode, lightMode } from "./components/Theme";
 import { GlobalStyles } from "./components/styles/Global";
 
-import Home from "./pages/Home/Home";
-import Recommendation from "./pages/Recommendation/Recommendation";
 import Info from "./pages/Info/Info";
 import MovieMap from "./pages/MovieMap/MovieMap";
 import MovieSales from "./pages/MovieSales/MovieSales";
 import MovieGraph from "./pages/MovieGraph/MovieGraph";
 
-
 import ErrorPage from "./pages/Error/ErrorPage";
-
-import Main from "./pages/Recommendation/Main";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 
