@@ -11,11 +11,11 @@ import {
 import { StyledPage } from "../../components/styles/Page.styled";
 import WorldMap from "../../components/WorldMap";
 import logo from "../../assets/main_logo.png";
-import { NodeInfo, Image } from '../../components/styles/NodeInfo.styled';
+import { StyledButton } from '../../components/styles/StyledButton.styled.js';
 
-const countriesList = () => {
+const countriesList = (path) => {
   const list=[]
-  fetch("/data/star_nation.json", {
+  fetch(path, {
     method: 'GET',
     headers: {
     "Accept": "application/json",
@@ -56,11 +56,33 @@ const countriesList = () => {
 };
 
 const MovieMap = () => {
+
+  const [activeTab, setActiveTab] = useState('A');
+  const [countryList, setCountryList] = useState([]);
+
+  useEffect(() => {
+    // Update the country list based on the active tab
+    if (activeTab === 'A') {
+      setCountryList(countriesList("/data/star_nation.json"));
+    } else if (activeTab === 'B') {
+      setCountryList(countriesList("/data/director_nation.json"));
+    }
+  }, [activeTab]);
+
+  const handleTabClick = (tab) => {
+    setActiveTab(tab);
+  };
+
+
   return (
     <StyledPage>
+      <div style={{ display: "flex", justifyContent: "center" }}>
+        <StyledButton onClick={() => handleTabClick('A')}>Actors Map</StyledButton>
+        <StyledButton onClick={() => handleTabClick('B')}>Directors Map</StyledButton>
+      </div>
       <WorldMap
         world_type={null}
-        selected_countries={countriesList()}
+        selected_countries={countryList}
         height={window.innerHeight}
         width={window.innerWidth}
         css_style={null}
