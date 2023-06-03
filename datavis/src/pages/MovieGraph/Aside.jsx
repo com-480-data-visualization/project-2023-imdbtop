@@ -35,7 +35,7 @@ const Aside = ({ movies, genreID, setGenreID, setMovies }) => {
               key={item.genre}
               onClick={() => {
                 setGenreID(idx);
-                setMovies([]);
+                //setMovies([]);
               }}
               value={idx}
               className={idx === genreID ? "genre-actived" : ""}

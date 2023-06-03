@@ -1,6 +1,6 @@
 import React, { useEffect, useRef, useState } from 'react';
 import * as d3 from 'd3';
-import { NodeInfo } from './styles/NodeInfo.styled';
+import { NodeInfo, Image } from './styles/NodeInfo.styled';
 
 const RelationGraph = ({ movies, genre }) => {
   console.log("debug movies", movies);
@@ -26,14 +26,19 @@ const RelationGraph = ({ movies, genre }) => {
       .force('center', d3.forceCenter(width / 2, height / 2));
 
     console.log("debug here", genre, movies);
-    const filteredMovies = genre ? movies.filter(item => item.genre.indexOf(genre) !== -1) : movies;
+
+    let filteredMovies = genre ? movies.filter(item => item.genre.indexOf(genre) !== -1) : movies;
+
+    if (filteredMovies.length > 20) {
+      filteredMovies = filteredMovies.sort((a, b) => a.rating - b.rating).slice(0, 20);
+    }
 
     const links = filteredMovies.reduce((acc, movie) => {
       const movieId = movie.id;
       const neighborIds = movie.neighbors;
 
       const movieLinks = neighborIds
-        .filter(neighborId => filteredMovies.some(movie => movie.id === neighborId)) // If only want to show movies that belong to the genre
+        .filter(neighborId => filteredMovies.some(movie => movie.id === neighborId))
         .map(neighborId => ({
           source: movieId,
           target: neighborId
@@ -45,6 +50,7 @@ const RelationGraph = ({ movies, genre }) => {
     const nodes = filteredMovies.map(movie => ({
       id: movie.id,
       imageUrl: movie.image_url,
+      rank: movie.rank,
       rating: movie.rating,
       title: movie.title,
       genre: movie.genre,
@@ -56,7 +62,7 @@ const RelationGraph = ({ movies, genre }) => {
       .enter()
       .append('line')
       .attr('class', 'link')
-      .style('stroke', 'black'); // Change stroke color for links connected to selected nodes
+      .style('stroke', 'black'); 
 
     const node = svg.selectAll('.node')
       .data(nodes)
@@ -66,7 +72,7 @@ const RelationGraph = ({ movies, genre }) => {
       .call(drag(simulation))
       .on('mouseover', handleMouseOver)
       .on('mouseout', handleMouseOut)
-      .on('click', handleClick); // Add click event handler
+      .on('click', handleClick); 
 
     node.append('circle')
       .attr('r', 10)
@@ -79,8 +85,8 @@ const RelationGraph = ({ movies, genre }) => {
       .attr('y', -10)
       .attr('width', 20)
       .attr('height', 20)
-      .attr('clip-path', 'circle(10px at 10px 10px)') // Apply circular clip path at the center of the image
-      .attr('preserveAspectRatio', 'xMidYMid slice') // Scale the image uniformly and crop to fill the circle
+      .attr('clip-path', 'circle(10px at 10px 10px)') 
+      .attr('preserveAspectRatio', 'xMidYMid slice') 
       .on('error', (event) => {
         d3.select(event.target).attr('xlink:href', 'fallback-image.jpg');
       });
@@ -179,6 +185,8 @@ const RelationGraph = ({ movies, genre }) => {
       <svg ref={svgRef}></svg>
       {hoveredNode && (
         <NodeInfo style={nodeInfoPosition}>
+           <Image src={hoveredNode.imageUrl} alt={hoveredNode.id} />
+           <p># {hoveredNode.rank}</p>
            <p>Movie Name: {hoveredNode.id}</p>
            <p>Genre: {hoveredNode.genre}</p>
            <p>Rating: {hoveredNode.rating}</p>

@@ -1,0 +1,251 @@
+director,director_url,nationality,image_url
+Frank Darabont,https://www.imdb.com/name/nm0001104,France,https://m.media-amazon.com/images/M/MV5BNjk0MTkxNzQwOF5BMl5BanBnXkFtZTcwODM5OTMwNA@@._V1_.jpg
+Francis Ford Coppola,https://www.imdb.com/name/nm0000338/,USA,https://m.media-amazon.com/images/M/MV5BMTM5NDU3OTgyNV5BMl5BanBnXkFtZTcwMzQxODA0NA@@._V1_.jpg
+Christopher Nolan,https://www.imdb.com/name/nm0634240/,UK,https://m.media-amazon.com/images/M/MV5BNjE3NDQyOTYyMV5BMl5BanBnXkFtZTcwODcyODU2Mw@@._V1_.jpg
+Francis Ford Coppola,https://www.imdb.com/name/nm0000338/,USA,https://m.media-amazon.com/images/M/MV5BMTM5NDU3OTgyNV5BMl5BanBnXkFtZTcwMzQxODA0NA@@._V1_.jpg
+Sidney Lumet,https://www.imdb.com/name/nm0001486/,USA,https://m.media-amazon.com/images/M/MV5BMTY4Mzk5Mzk4Ml5BMl5BanBnXkFtZTYwMTE2NDg0._V1_.jpg
+Steven Spielberg,https://www.imdb.com/name/nm0000229/,USA,https://m.media-amazon.com/images/M/MV5BMTY1NjAzNzE1MV5BMl5BanBnXkFtZTYwNTk0ODc0._V1_.jpg
+Peter Jackson,https://www.imdb.com/name/nm0001392/,New Zealand,https://m.media-amazon.com/images/M/MV5BYjFjOThjMjgtYzM5ZS00Yjc0LTk5OTAtYWE4Y2IzMDYyZTI5XkEyXkFqcGdeQXVyMTMxMTIwMTE0._V1_.jpg
+Quentin Tarantino,https://www.imdb.com/name/nm0000233/,USA,https://m.media-amazon.com/images/M/MV5BMTgyMjI3ODA3Nl5BMl5BanBnXkFtZTcwNzY2MDYxOQ@@._V1_.jpg
+Peter Jackson,https://www.imdb.com/name/nm0001392/,New Zealand,https://m.media-amazon.com/images/M/MV5BYjFjOThjMjgtYzM5ZS00Yjc0LTk5OTAtYWE4Y2IzMDYyZTI5XkEyXkFqcGdeQXVyMTMxMTIwMTE0._V1_.jpg
+Sergio Leone,https://www.imdb.com/name/nm0001466/,Italy,https://m.media-amazon.com/images/M/MV5BMTk4Njk5MzY3MV5BMl5BanBnXkFtZTcwMTEyMzE0NA@@._V1_.jpg
+Robert Zemeckis,https://www.imdb.com/name/nm0000709/,USA,https://m.media-amazon.com/images/M/MV5BMTgyMTMzMDUyNl5BMl5BanBnXkFtZTcwODA0ODMyMw@@._V1_.jpg
+David Fincher,https://www.imdb.com/name/nm0000399,USA,https://m.media-amazon.com/images/M/MV5BMTc1NDkwMTQ2MF5BMl5BanBnXkFtZTcwMzY0ODkyMg@@._V1_.jpg
+Peter Jackson,https://www.imdb.com/name/nm0001392/,New Zealand,https://m.media-amazon.com/images/M/MV5BYjFjOThjMjgtYzM5ZS00Yjc0LTk5OTAtYWE4Y2IzMDYyZTI5XkEyXkFqcGdeQXVyMTMxMTIwMTE0._V1_.jpg
+Christopher Nolan,https://www.imdb.com/name/nm0634240/,UK,https://m.media-amazon.com/images/M/MV5BNjE3NDQyOTYyMV5BMl5BanBnXkFtZTcwODcyODU2Mw@@._V1_.jpg
+Irvin Kershner,https://www.imdb.com/name/nm0449984/,USA,https://m.media-amazon.com/images/M/MV5BMTQyNjk0NTcwMl5BMl5BanBnXkFtZTcwNzAyNDQxNA@@._V1_.jpg
+Lana Wachowski,https://www.imdb.com/name/nm0905154/,USA,https://m.media-amazon.com/images/M/MV5BMjEzMTc2MDQ5OV5BMl5BanBnXkFtZTcwNjkzNDY0OA@@._V1_.jpg
+Martin Scorsese,https://www.imdb.com/name/nm0000217/,USA,https://m.media-amazon.com/images/M/MV5BMTcyNDA4Nzk3N15BMl5BanBnXkFtZTcwNDYzMjMxMw@@._V1_.jpg
+Milos Forman,https://www.imdb.com/name/nm0001232,Czech Republic,https://m.media-amazon.com/images/M/MV5BNDY5NDAyODM2Nl5BMl5BanBnXkFtZTcwMzgzNzg3OA@@._V1_.jpg
+David Fincher,https://www.imdb.com/name/nm0000399/,USA,https://m.media-amazon.com/images/M/MV5BMTc1NDkwMTQ2MF5BMl5BanBnXkFtZTcwMzY0ODkyMg@@._V1_.jpg
+Akira Kurosawa,https://www.imdb.com/name/nm0000041/,Japan,https://m.media-amazon.com/images/M/MV5BMjE3ODQwNTY2Nl5BMl5BanBnXkFtZTcwMTI5ODM1Mw@@._V1_.jpg
+Frank Capra,https://www.imdb.com/name/nm0001008/,Italy,https://m.media-amazon.com/images/M/MV5BMTQ1NjE0NzgzNV5BMl5BanBnXkFtZTYwODg0MjI2._V1_.jpg
+Jonathan Demme,https://www.imdb.com/name/nm0001129/,USA,https://m.media-amazon.com/images/M/MV5BMTY1NzY0OTQ0OF5BMl5BanBnXkFtZTcwNDY1Njk5Mg@@._V1_.jpg
+Fernando Meirelles,https://www.imdb.com/name/nm0576987/,Brazil,https://m.media-amazon.com/images/M/MV5BMTMzMDA3Mjg0N15BMl5BanBnXkFtZTYwMTc4NDIz._V1_.jpg
+Steven Spielberg,https://www.imdb.com/name/nm0000229/,USA,https://m.media-amazon.com/images/M/MV5BMTY1NjAzNzE1MV5BMl5BanBnXkFtZTYwNTk0ODc0._V1_.jpg
+Christopher Nolan,https://www.imdb.com/name/nm0634240/,UK,https://m.media-amazon.com/images/M/MV5BNjE3NDQyOTYyMV5BMl5BanBnXkFtZTcwODcyODU2Mw@@._V1_.jpg
+Roberto Benigni,https://www.imdb.com/name/nm0000905/,Italy,https://m.media-amazon.com/images/M/MV5BMTUwMzI1Nzg5NF5BMl5BanBnXkFtZTYwODU5NjYz._V1_.jpg
+Frank Darabont,https://www.imdb.com/name/nm0001104/,France,https://m.media-amazon.com/images/M/MV5BNjk0MTkxNzQwOF5BMl5BanBnXkFtZTcwODM5OTMwNA@@._V1_.jpg
+George Lucas,https://www.imdb.com/name/nm0000184,USA,https://m.media-amazon.com/images/M/MV5BMTA0Mjc0NzExNzBeQTJeQWpwZ15BbWU3MDEzMzQ3MDI@._V1_.jpg
+James Cameron,https://www.imdb.com/name/nm0000116/,Canada,https://m.media-amazon.com/images/M/MV5BMjI0MjMzOTg2MF5BMl5BanBnXkFtZTcwMTM3NjQxMw@@._V1_.jpg
+Robert Zemeckis,https://www.imdb.com/name/nm0000709/,USA,https://m.media-amazon.com/images/M/MV5BMTgyMTMzMDUyNl5BMl5BanBnXkFtZTcwODA0ODMyMw@@._V1_.jpg
+Hayao Miyazaki,https://www.imdb.com/name/nm0594503/,Japan,https://m.media-amazon.com/images/M/MV5BMjcyNjk2OTkwNF5BMl5BanBnXkFtZTcwOTk0MTQ3Mg@@._V1_.jpg
+Roman Polanski,https://www.imdb.com/name/nm0000591/,France,https://m.media-amazon.com/images/M/MV5BMTAzNzgwMzMyNDNeQTJeQWpwZ15BbWU2MDg0MDkzNA@@._V1_.jpg
+Alfred Hitchcock,https://www.imdb.com/name/nm0000033/,UK,https://m.media-amazon.com/images/M/MV5BNGJkNmE4MjMtNGIzNC00NTVjLWJkNDItZTE5NTI2YmZiZDg5XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg
+Bong Joon Ho,https://www.imdb.com/name/nm0094435/,South Korea,https://m.media-amazon.com/images/M/MV5BOGVmYzZkODgtNTQ3OS00MzgxLTllOGUtZTFjNDc4MmE1ZDcwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg
+Luc Besson,https://www.imdb.com/name/nm0000108/,France,https://m.media-amazon.com/images/M/MV5BMTAwNzE4Njg0NTFeQTJeQWpwZ15BbWU3MDk0MDEyMDc@._V1_.jpg
+Roger Allers,https://www.imdb.com/name/nm0021249/,USA,https://m.media-amazon.com/images/M/MV5BNjRmZjg2NTktNThiNC00NjgwLWI5ZTktZmY1NGM1ZWY4NWI2XkEyXkFqcGdeQXVyMjgzNzUxOTY@._V1_.jpg
+Ridley Scott,https://www.imdb.com/name/nm0000631/,UK,https://m.media-amazon.com/images/M/MV5BMGJkOGM5OWEtNDYxMy00Njg4LWExNjAtY2ZlNWNlNzVhNDk4XkEyXkFqcGdeQXVyNDkzNTM2ODg@._V1_.jpg
+Tony Kaye,https://www.imdb.com/name/nm0443411/,UK,https://m.media-amazon.com/images/M/MV5BMTY4Nzg0MTQ4Ml5BMl5BanBnXkFtZTcwMTcwMzcwNQ@@._V1_.jpg
+Martin Scorsese,https://www.imdb.com/name/nm0000217/,USA,https://m.media-amazon.com/images/M/MV5BMTcyNDA4Nzk3N15BMl5BanBnXkFtZTcwNDYzMjMxMw@@._V1_.jpg
+Bryan Singer,https://www.imdb.com/name/nm0001741/,USA,https://m.media-amazon.com/images/M/MV5BMTMwMzQ0OTgzNF5BMl5BanBnXkFtZTcwMjExNzAyMg@@._V1_.jpg
+Christopher Nolan,https://www.imdb.com/name/nm0634240/,UK,https://m.media-amazon.com/images/M/MV5BNjE3NDQyOTYyMV5BMl5BanBnXkFtZTcwODcyODU2Mw@@._V1_.jpg
+Damien Chazelle,https://www.imdb.com/name/nm3227090,USA,https://m.media-amazon.com/images/M/MV5BMjE2MzcyODA3MV5BMl5BanBnXkFtZTgwNTA3NTU2MjE@._V1_.jpg
+Michael Curtiz,https://www.imdb.com/name/nm0002031/,Hungary,https://m.media-amazon.com/images/M/MV5BMTcyMjA2MTgwNF5BMl5BanBnXkFtZTYwMTcwMDY2._V1_.jpg
+Isao Takahata,https://www.imdb.com/name/nm0847223/,Japan,https://m.media-amazon.com/images/M/MV5BNDM5OTc2NjI1MV5BMl5BanBnXkFtZTgwOTI3MjA4MTE@._V1_.jpg
+Masaki Kobayashi,https://www.imdb.com/name/nm0462030/,Japan,https://m.media-amazon.com/images/M/MV5BNWQwZTVjYTEtYTdmYi00MTkxLWJjMjYtZTNkOWY0MTRlM2Y3XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg
+Olivier Nakache,https://www.imdb.com/name/nm0619923/,France,https://m.media-amazon.com/images/M/MV5BMjI4MzIxMTQ1MV5BMl5BanBnXkFtZTcwNDk4NzgxOA@@._V1_.jpg
+Charles Chaplin,https://www.imdb.com/name/nm0000122/,UK,https://m.media-amazon.com/images/M/MV5BNDcwMDc0ODAzOF5BMl5BanBnXkFtZTgwNTY2OTI1MDE@._V1_.jpg
+Sergio Leone,https://www.imdb.com/name/nm0001466/,Italy,https://m.media-amazon.com/images/M/MV5BMTk4Njk5MzY3MV5BMl5BanBnXkFtZTcwMTEyMzE0NA@@._V1_.jpg
+Alfred Hitchcock,https://www.imdb.com/name/nm0000033/,UK,https://m.media-amazon.com/images/M/MV5BNGJkNmE4MjMtNGIzNC00NTVjLWJkNDItZTE5NTI2YmZiZDg5XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg
+Giuseppe Tornatore,https://www.imdb.com/name/nm0868153/,Italy,https://m.media-amazon.com/images/M/MV5BMjIwNTY2MTA5MF5BMl5BanBnXkFtZTcwNjY3ODg5Mg@@._V1_.jpg
+Ridley Scott,https://www.imdb.com/name/nm0000631/,UK,https://m.media-amazon.com/images/M/MV5BMGJkOGM5OWEtNDYxMy00Njg4LWExNjAtY2ZlNWNlNzVhNDk4XkEyXkFqcGdeQXVyNDkzNTM2ODg@._V1_.jpg
+Charles Chaplin,https://www.imdb.com/name/nm0000122/,UK,https://m.media-amazon.com/images/M/MV5BNDcwMDc0ODAzOF5BMl5BanBnXkFtZTgwNTY2OTI1MDE@._V1_.jpg
+Francis Ford Coppola,https://www.imdb.com/name/nm0000338/,USA,https://m.media-amazon.com/images/M/MV5BMTM5NDU3OTgyNV5BMl5BanBnXkFtZTcwMzQxODA0NA@@._V1_.jpg
+Christopher Nolan,https://www.imdb.com/name/nm0634240/,UK,https://m.media-amazon.com/images/M/MV5BNjE3NDQyOTYyMV5BMl5BanBnXkFtZTcwODcyODU2Mw@@._V1_.jpg
+Quentin Tarantino,https://www.imdb.com/name/nm0000233/,USA,https://m.media-amazon.com/images/M/MV5BMTgyMjI3ODA3Nl5BMl5BanBnXkFtZTcwNzY2MDYxOQ@@._V1_.jpg
+Steven Spielberg,https://www.imdb.com/name/nm0000229/,USA,https://m.media-amazon.com/images/M/MV5BMTY1NjAzNzE1MV5BMl5BanBnXkFtZTYwNTk0ODc0._V1_.jpg
+Andrew Stanton,https://www.imdb.com/name/nm0004056/,USA,https://m.media-amazon.com/images/M/MV5BMTQ3NGE0ZjctNGUwMC00ODMyLTg5ZDktY2IxOTIwNmM3Nzg4XkEyXkFqcGdeQXVyMTEzNTE2NzQx._V1_.jpg
+Florian Henckel von Donnersmarck,https://www.imdb.com/name/nm0003697/,Germany,https://m.media-amazon.com/images/M/MV5BMTI0MTk2NDY5OV5BMl5BanBnXkFtZTcwODY2ODQ1MQ@@._V1_.jpg
+Billy Wilder,https://www.imdb.com/name/nm0000697/,Poland,https://m.media-amazon.com/images/M/MV5BMTA2MDc2MDIwMzFeQTJeQWpwZ15BbWU2MDA3MTg0Ng@@._V1_.jpg
+Stanley Kubrick,https://www.imdb.com/name/nm0000040/,USA,https://m.media-amazon.com/images/M/MV5BOGYzYjljYmYtODE0Yy00NzlmLThkNmQtZGQzMjM4MGI1NTUxXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_.jpg
+Stanley Kubrick,https://www.imdb.com/name/nm0000040/,USA,https://m.media-amazon.com/images/M/MV5BOGYzYjljYmYtODE0Yy00NzlmLThkNmQtZGQzMjM4MGI1NTUxXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_.jpg
+Charles Chaplin,https://www.imdb.com/name/nm0000122/,UK,https://m.media-amazon.com/images/M/MV5BNDcwMDc0ODAzOF5BMl5BanBnXkFtZTgwNTY2OTI1MDE@._V1_.jpg
+Anthony Russo,https://www.imdb.com/name/nm0751577/,USA,https://m.media-amazon.com/images/M/MV5BMTc2NjM5MTM0Ml5BMl5BanBnXkFtZTgwMTY3ODczNjM@._V1_.jpg
+Billy Wilder,https://www.imdb.com/name/nm0000697/,Poland,https://m.media-amazon.com/images/M/MV5BMTA2MDc2MDIwMzFeQTJeQWpwZ15BbWU2MDA3MTg0Ng@@._V1_.jpg
+James Cameron,https://www.imdb.com/name/nm0000116/,Canada,https://m.media-amazon.com/images/M/MV5BMjI0MjMzOTg2MF5BMl5BanBnXkFtZTcwMTM3NjQxMw@@._V1_.jpg
+Bob Persichetti,https://www.imdb.com/name/nm2130108/,NA,https://m.media-amazon.com/images/M/MV5BMjM1ZmFlZDUtNTQ4YS00OTU5LTkzYTktNjcwODkwZGQ3NjUxXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg
+Sam Mendes,https://www.imdb.com/name/nm0005222/,UK,https://m.media-amazon.com/images/M/MV5BNTgzODMyMDUwNF5BMl5BanBnXkFtZTcwNzEyMjAyMg@@._V1_.jpg
+Stanley Kubrick,https://www.imdb.com/name/nm0000040/,USA,https://m.media-amazon.com/images/M/MV5BOGYzYjljYmYtODE0Yy00NzlmLThkNmQtZGQzMjM4MGI1NTUxXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_.jpg
+Christopher Nolan,https://www.imdb.com/name/nm0634240/,UK,https://m.media-amazon.com/images/M/MV5BNjE3NDQyOTYyMV5BMl5BanBnXkFtZTcwODcyODU2Mw@@._V1_.jpg
+Park Chan-wook,https://www.imdb.com/name/nm0661791/,South Korea,https://m.media-amazon.com/images/M/MV5BMTgyODk3MTU5OV5BMl5BanBnXkFtZTcwMTc3NjcyMQ@@._V1_.jpg
+Quentin Tarantino,https://www.imdb.com/name/nm0000233/,USA,https://m.media-amazon.com/images/M/MV5BMTgyMjI3ODA3Nl5BMl5BanBnXkFtZTcwNzY2MDYxOQ@@._V1_.jpg
+Milos Forman,https://www.imdb.com/name/nm0001232/,Czech Republic,https://m.media-amazon.com/images/M/MV5BNDY5NDAyODM2Nl5BMl5BanBnXkFtZTcwMzgzNzg3OA@@._V1_.jpg
+Lee Unkrich,https://www.imdb.com/name/nm0881279/,USA,https://m.media-amazon.com/images/M/MV5BMjA1ODE2NTEzN15BMl5BanBnXkFtZTYwNzUzODY2._V1_.jpg
+John Lasseter,https://www.imdb.com/name/nm0005124/,USA,https://m.media-amazon.com/images/M/MV5BMTQ5NTczNjE5MV5BMl5BanBnXkFtZTcwMTA1MTQ3Mg@@._V1_.jpg
+Todd Phillips,https://www.imdb.com/name/nm0680846/,USA,https://m.media-amazon.com/images/M/MV5BNGY5MWRjM2MtNDkzNC00MDcwLWE2ZjYtOWNlZmM3MWIyNGZmXkEyXkFqcGdeQXVyMTAxMjM5NTA4._V1_.jpg
+Mel Gibson,https://www.imdb.com/name/nm0000154/,USA,https://m.media-amazon.com/images/M/MV5BNTUzOTMwNTM0OV5BMl5BanBnXkFtZTcwNDQwMTUxMw@@._V1_.jpg
+Wolfgang Petersen,https://www.imdb.com/name/nm0000583/,Germany,https://m.media-amazon.com/images/M/MV5BMTczNTQ5ODY4OV5BMl5BanBnXkFtZTYwMDcyMDI1._V1_.jpg
+Anthony Russo,https://www.imdb.com/name/nm0751577/,USA,https://m.media-amazon.com/images/M/MV5BMTc2NjM5MTM0Ml5BMl5BanBnXkFtZTgwMTY3ODczNjM@._V1_.jpg
+Hayao Miyazaki,https://www.imdb.com/name/nm0594503/,Japan,https://m.media-amazon.com/images/M/MV5BMjcyNjk2OTkwNF5BMl5BanBnXkFtZTcwOTk0MTQ3Mg@@._V1_.jpg
+Sergio Leone,https://www.imdb.com/name/nm0001466/,Italy,https://m.media-amazon.com/images/M/MV5BMTk4Njk5MzY3MV5BMl5BanBnXkFtZTcwMTEyMzE0NA@@._V1_.jpg
+Gus Van Sant,https://www.imdb.com/name/nm0001814/,USA,https://m.media-amazon.com/images/M/MV5BMTI2MDcxOTEzM15BMl5BanBnXkFtZTcwNjY0ODkyMg@@._V1_.jpg
+Makoto Shinkai,https://www.imdb.com/name/nm1396121/,Japan,https://m.media-amazon.com/images/M/MV5BN2IxMTg5YmEtMWQ5NC00NDQyLTliOWQtMjkxYTU5NDFmMmQyXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_.jpg
+Rajkumar Hirani,https://www.imdb.com/name/nm0386246/,India,https://m.media-amazon.com/images/M/MV5BMTc3ODMzMjI2N15BMl5BanBnXkFtZTgwMjI5ODEzOTE@._V1_.jpg
+Stanley Donen,https://www.imdb.com/name/nm0002045/,USA,https://m.media-amazon.com/images/M/MV5BNTQ0MDgxNzEtYWUyZC00MjhkLThmOTItOTU5ZmZjYTg4Zjc3XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg
+Darren Aronofsky,https://www.imdb.com/name/nm0004716/,USA,https://m.media-amazon.com/images/M/MV5BMTI1NTQ0NjU3MF5BMl5BanBnXkFtZTcwOTQ0MTUyMg@@._V1_.jpg
+Lee Unkrich,https://www.imdb.com/name/nm0881279/,USA,https://m.media-amazon.com/images/M/MV5BMjA1ODE2NTEzN15BMl5BanBnXkFtZTYwNzUzODY2._V1_.jpg
+Akira Kurosawa,https://www.imdb.com/name/nm0000041/,Japan,https://m.media-amazon.com/images/M/MV5BMjE3ODQwNTY2Nl5BMl5BanBnXkFtZTcwMTI5ODM1Mw@@._V1_.jpg
+Nadine Labaki,https://www.imdb.com/name/nm1701024/,Lebanon,https://m.media-amazon.com/images/M/MV5BMTk2NDgxMTQyMV5BMl5BanBnXkFtZTgwNTk3MTA3NTE@._V1_.jpg
+Richard Marquand,https://www.imdb.com/name/nm0549658/,UK,https://m.media-amazon.com/images/M/MV5BMjgwY2ZkYjEtNzgxZi00ZDIyLWJhZWItZjg1NGQ4OWE5ZTZhXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg
+Michel Gondry,https://www.imdb.com/name/nm0327273/,France,https://m.media-amazon.com/images/M/MV5BMjEwNDg3MDA1MF5BMl5BanBnXkFtZTcwMDAxMzc1MQ@@._V1_.jpg
+Stanley Kubrick,https://www.imdb.com/name/nm0000040/,USA,https://m.media-amazon.com/images/M/MV5BOGYzYjljYmYtODE0Yy00NzlmLThkNmQtZGQzMjM4MGI1NTUxXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_.jpg
+Quentin Tarantino,https://www.imdb.com/name/nm0000233/,USA,https://m.media-amazon.com/images/M/MV5BMTgyMjI3ODA3Nl5BMl5BanBnXkFtZTcwNzY2MDYxOQ@@._V1_.jpg
+Elem Klimov,https://www.imdb.com/name/nm0459552/,Russia,N/A
+Thomas Szczepanski,https://www.imdb.com/name/nm3149480/,NA,N/A
+Orson Welles,https://www.imdb.com/name/nm0000080/,USA,https://m.media-amazon.com/images/M/MV5BOGJiOThkNDYtNWY1Mi00ZTQ1LWFlZWItOTkwNWE4ZDMyYTEyXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_.jpg
+Fritz Lang,https://www.imdb.com/name/nm0000485/,Austria,https://m.media-amazon.com/images/M/MV5BNzU2ODY0NzkwNF5BMl5BanBnXkFtZTgwNDI0MTE5MTE@._V1_.jpg
+David Lean,https://www.imdb.com/name/nm0000180/,UK,https://m.media-amazon.com/images/M/MV5BMjM3NzIzMzg4M15BMl5BanBnXkFtZTcwOTA1Mzg3Mw@@._V1_.jpg
+Alfred Hitchcock,https://www.imdb.com/name/nm0000033/,UK,https://m.media-amazon.com/images/M/MV5BNGJkNmE4MjMtNGIzNC00NTVjLWJkNDItZTE5NTI2YmZiZDg5XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg
+Alfred Hitchcock,https://www.imdb.com/name/nm0000033/,UK,https://m.media-amazon.com/images/M/MV5BNGJkNmE4MjMtNGIzNC00NTVjLWJkNDItZTE5NTI2YmZiZDg5XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg
+Akira Kurosawa,https://www.imdb.com/name/nm0000041/,Japan,https://m.media-amazon.com/images/M/MV5BMjE3ODQwNTY2Nl5BMl5BanBnXkFtZTcwMTI5ODM1Mw@@._V1_.jpg
+Jean-Pierre Jeunet,https://www.imdb.com/name/nm0000466/,France,https://m.media-amazon.com/images/M/MV5BMjE2Mjg3MTE2NF5BMl5BanBnXkFtZTYwOTUzMzk1._V1_.jpg
+Billy Wilder,https://www.imdb.com/name/nm0000697/,Poland,https://m.media-amazon.com/images/M/MV5BMTA2MDc2MDIwMzFeQTJeQWpwZ15BbWU2MDA3MTg0Ng@@._V1_.jpg
+Stanley Kubrick,https://www.imdb.com/name/nm0000040/,USA,https://m.media-amazon.com/images/M/MV5BOGYzYjljYmYtODE0Yy00NzlmLThkNmQtZGQzMjM4MGI1NTUxXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_.jpg
+Billy Wilder,https://www.imdb.com/name/nm0000697/,Poland,https://m.media-amazon.com/images/M/MV5BMTA2MDc2MDIwMzFeQTJeQWpwZ15BbWU2MDA3MTg0Ng@@._V1_.jpg
+Stanley Kubrick,https://www.imdb.com/name/nm0000040/,USA,https://m.media-amazon.com/images/M/MV5BOGYzYjljYmYtODE0Yy00NzlmLThkNmQtZGQzMjM4MGI1NTUxXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_.jpg
+Joseph Kosinski,https://www.imdb.com/name/nm2676052/,USA,https://m.media-amazon.com/images/M/MV5BMzE1NDE3MzYtYTNiMC00MDU5LWJjZTgtMDllODNkYzY1NjNmXkEyXkFqcGdeQXVyNTQxNTQ4Mg@@._V1_.jpg
+Brian De Palma,https://www.imdb.com/name/nm0000361/,USA,https://m.media-amazon.com/images/M/MV5BMTI2ODQ0NDY3OV5BMl5BanBnXkFtZTYwNjAxNTM0._V1_.jpg
+Thomas Kail,https://www.imdb.com/name/nm2371802/,NA,https://m.media-amazon.com/images/M/MV5BMzg2OTQ1NjAxN15BMl5BanBnXkFtZTgwNjU2MzYwMjI@._V1_.jpg
+Denis Villeneuve,https://www.imdb.com/name/nm0898288/,Canada,https://m.media-amazon.com/images/M/MV5BMzU2MDk5MDI2MF5BMl5BanBnXkFtZTcwNDkwMjMzNA@@._V1_.jpg
+Robert Mulligan,https://www.imdb.com/name/nm0612322/,USA,https://m.media-amazon.com/images/M/MV5BMTk4NjQ2ODY1NF5BMl5BanBnXkFtZTcwODA1NjcxMw@@._V1_.jpg
+Michael Mann,https://www.imdb.com/name/nm0000520/,USA,https://m.media-amazon.com/images/M/MV5BMTU2MjMzODY3Ml5BMl5BanBnXkFtZTYwNjE0OTMz._V1_.jpg
+George Roy Hill,https://www.imdb.com/name/nm0001351/,USA,https://m.media-amazon.com/images/M/MV5BMjE1NzM2MTM1OF5BMl5BanBnXkFtZTgwNjA3Nzg4MDE@._V1_.jpg
+Pete Docter,https://www.imdb.com/name/nm0230032/,USA,https://m.media-amazon.com/images/M/MV5BOTAwMGJlMjEtMTRkYS00YzlmLWI1NDAtZmMxMGFlODAwNDI0XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg
+Asghar Farhadi,https://www.imdb.com/name/nm1410815/,Iran,https://m.media-amazon.com/images/M/MV5BMTM0NDE2Mzg4N15BMl5BanBnXkFtZTcwMDcxMjYyNw@@._V1_.jpg
+Fritz Lang,https://www.imdb.com/name/nm0000485/,Austria,https://m.media-amazon.com/images/M/MV5BNzU2ODY0NzkwNF5BMl5BanBnXkFtZTgwNDI0MTE5MTE@._V1_.jpg
+Martin Scorsese,https://www.imdb.com/name/nm0000217/,USA,https://m.media-amazon.com/images/M/MV5BMTcyNDA4Nzk3N15BMl5BanBnXkFtZTcwNDYzMjMxMw@@._V1_.jpg
+Curtis Hanson,https://www.imdb.com/name/nm0000436/,USA,https://m.media-amazon.com/images/M/MV5BMTM3MzIzMzExOV5BMl5BanBnXkFtZTcwMTEyNjA1Mw@@._V1_.jpg
+John McTiernan,https://www.imdb.com/name/nm0001532/,USA,https://m.media-amazon.com/images/M/MV5BMjE4MTIwODY2Ml5BMl5BanBnXkFtZTYwMTk5MDQ3._V1_.jpg
+Guy Ritchie,https://www.imdb.com/name/nm0005363/,UK,https://m.media-amazon.com/images/M/MV5BMTM2NDkxMTcxMl5BMl5BanBnXkFtZTcwNTMyNjI5MQ@@._V1_.jpg
+Steven Spielberg,https://www.imdb.com/name/nm0000229/,USA,https://m.media-amazon.com/images/M/MV5BMTY1NjAzNzE1MV5BMl5BanBnXkFtZTYwNTk0ODc0._V1_.jpg
+Vittorio De Sica,https://www.imdb.com/name/nm0001120/,Italy,https://m.media-amazon.com/images/M/MV5BMzcxOTgxMTY3NV5BMl5BanBnXkFtZTgwODE5OTk3MTE@._V1_.jpg
+Aamir Khan,https://www.imdb.com/name/nm0451148/,India,https://m.media-amazon.com/images/M/MV5BMjAwMjk3NDUzN15BMl5BanBnXkFtZTcwNjI4MTY0NA@@._V1_.jpg
+Sam Mendes,https://www.imdb.com/name/nm0005222/,UK,https://m.media-amazon.com/images/M/MV5BNTgzODMyMDUwNF5BMl5BanBnXkFtZTcwNzEyMjAyMg@@._V1_.jpg
+Oliver Hirschbiegel,https://www.imdb.com/name/nm0386570/,Germany,https://m.media-amazon.com/images/M/MV5BMTgxMzcyMDc3Nl5BMl5BanBnXkFtZTcwMzQ4OTcyMg@@._V1_.jpg
+Nitesh Tiwari,https://www.imdb.com/name/nm4318159/,India,https://m.media-amazon.com/images/M/MV5BODg5ODQ4Mjg5Nl5BMl5BanBnXkFtZTgwMjI3NTU5MDI@._V1_.jpg
+Sergio Leone,https://www.imdb.com/name/nm0001466/,Italy,https://m.media-amazon.com/images/M/MV5BMTk4Njk5MzY3MV5BMl5BanBnXkFtZTcwMTEyMzE0NA@@._V1_.jpg
+Christopher Nolan,https://www.imdb.com/name/nm0634240/,UK,https://m.media-amazon.com/images/M/MV5BNjE3NDQyOTYyMV5BMl5BanBnXkFtZTcwODcyODU2Mw@@._V1_.jpg
+Charles Chaplin,https://www.imdb.com/name/nm0000122/,UK,https://m.media-amazon.com/images/M/MV5BNDcwMDc0ODAzOF5BMl5BanBnXkFtZTgwNTY2OTI1MDE@._V1_.jpg
+Billy Wilder,https://www.imdb.com/name/nm0000697/,Poland,https://m.media-amazon.com/images/M/MV5BMTA2MDc2MDIwMzFeQTJeQWpwZ15BbWU2MDA3MTg0Ng@@._V1_.jpg
+Florian Zeller,https://www.imdb.com/name/nm1725469/,France,https://m.media-amazon.com/images/M/MV5BMzBjODMwN2EtZTliZC00YmQ4LWE4MzUtYWU4MmU1ZWVjOTNiXkEyXkFqcGdeQXVyMTEzNTk3ODUw._V1_.jpg
+Joseph L. Mankiewicz,https://www.imdb.com/name/nm0000581/,USA,https://m.media-amazon.com/images/M/MV5BMjA1MzMwMzEwNF5BMl5BanBnXkFtZTcwMTk5MjgyNw@@._V1_.jpg
+Martin Scorsese,https://www.imdb.com/name/nm0000217/,USA,https://m.media-amazon.com/images/M/MV5BMTcyNDA4Nzk3N15BMl5BanBnXkFtZTcwNDYzMjMxMw@@._V1_.jpg
+Peter Farrelly,https://www.imdb.com/name/nm0268380/,USA,https://m.media-amazon.com/images/M/MV5BMTU5Njg0NjU0M15BMl5BanBnXkFtZTgwNDM5OTg4NjM@._V1_.jpg
+Stanley Kramer,https://www.imdb.com/name/nm0006452/,USA,https://m.media-amazon.com/images/M/MV5BMTYwNDAwNjk0NV5BMl5BanBnXkFtZTgwMzEyMTM1NzM@._V1_.jpg
+Martin Scorsese,https://www.imdb.com/name/nm0000217/,USA,https://m.media-amazon.com/images/M/MV5BMTcyNDA4Nzk3N15BMl5BanBnXkFtZTcwNDYzMjMxMw@@._V1_.jpg
+Akira Kurosawa,https://www.imdb.com/name/nm0000041/,Japan,https://m.media-amazon.com/images/M/MV5BMjE3ODQwNTY2Nl5BMl5BanBnXkFtZTcwMTI5ODM1Mw@@._V1_.jpg
+Guillermo del Toro,https://www.imdb.com/name/nm0868219/,Mexico,https://m.media-amazon.com/images/M/MV5BOTUzNTYwNjE0N15BMl5BanBnXkFtZTcwMjc0ODM1Mw@@._V1_.jpg
+Peter Weir,https://www.imdb.com/name/nm0001837/,Australia,https://m.media-amazon.com/images/M/MV5BMTIzNDg2NTIyN15BMl5BanBnXkFtZTYwNzQyNDY1._V1_.jpg
+Paul Thomas Anderson,https://www.imdb.com/name/nm0000759/,USA,https://m.media-amazon.com/images/M/MV5BMTQwNjc5NjY2NV5BMl5BanBnXkFtZTcwNDIxMzg1MQ@@._V1_.jpg
+Clint Eastwood,https://www.imdb.com/name/nm0000142/,USA,https://m.media-amazon.com/images/M/MV5BMTg3MDc0MjY0OV5BMl5BanBnXkFtZTcwNzU1MDAxOA@@._V1_.jpg
+M. Night Shyamalan,https://www.imdb.com/name/nm0796117/,India,https://m.media-amazon.com/images/M/MV5BMTczMTA5OTMxMl5BMl5BanBnXkFtZTcwMDA4NDg1Mw@@._V1_.jpg
+Martin Scorsese,https://www.imdb.com/name/nm0000217/,USA,https://m.media-amazon.com/images/M/MV5BMTcyNDA4Nzk3N15BMl5BanBnXkFtZTcwNDYzMjMxMw@@._V1_.jpg
+Ron Howard,https://www.imdb.com/name/nm0000165/,USA,https://m.media-amazon.com/images/M/MV5BMTkzMDczMjUxNF5BMl5BanBnXkFtZTcwODY1Njk5Mg@@._V1_.jpg
+Steven Spielberg,https://www.imdb.com/name/nm0000229/,USA,https://m.media-amazon.com/images/M/MV5BMTY1NjAzNzE1MV5BMl5BanBnXkFtZTYwNTk0ODc0._V1_.jpg
+Akira Kurosawa,https://www.imdb.com/name/nm0000041/,Japan,https://m.media-amazon.com/images/M/MV5BMjE3ODQwNTY2Nl5BMl5BanBnXkFtZTcwMTI5ODM1Mw@@._V1_.jpg
+John Huston,https://www.imdb.com/name/nm0001379/,USA,https://m.media-amazon.com/images/M/MV5BMjI0OTcyMDcxMF5BMl5BanBnXkFtZTcwNDY0MjE3Mw@@._V1_.jpg
+Terry Gilliam,https://www.imdb.com/name/nm0000416/,USA,https://m.media-amazon.com/images/M/MV5BODAyMDM0NjEwOF5BMl5BanBnXkFtZTcwMTUyMDY5Mg@@._V1_.jpg
+John Sturges,https://www.imdb.com/name/nm0836328/,USA,https://m.media-amazon.com/images/M/MV5BMTM0NzkwODQwMl5BMl5BanBnXkFtZTcwMzQ1NjEwMw@@._V1_.jpg
+Ethan Coen,https://www.imdb.com/name/nm0001053/,USA,https://m.media-amazon.com/images/M/MV5BMTI3NjIwNzQ2N15BMl5BanBnXkFtZTcwNTY0ODkyMg@@._V1_.jpg
+Jon Watts,https://www.imdb.com/name/nm1218281/,USA,https://m.media-amazon.com/images/M/MV5BNzg2NjA5ODAyMV5BMl5BanBnXkFtZTgwODAzMjkxNDE@._V1_.jpg
+Quentin Tarantino,https://www.imdb.com/name/nm0000233/,USA,https://m.media-amazon.com/images/M/MV5BMTgyMjI3ODA3Nl5BMl5BanBnXkFtZTcwNzY2MDYxOQ@@._V1_.jpg
+Akira Kurosawa,https://www.imdb.com/name/nm0000041/,Japan,https://m.media-amazon.com/images/M/MV5BMjE3ODQwNTY2Nl5BMl5BanBnXkFtZTcwMTI5ODM1Mw@@._V1_.jpg
+John Carpenter,https://www.imdb.com/name/nm0000118/,USA,https://m.media-amazon.com/images/M/MV5BMTAzMzgwNDgzODBeQTJeQWpwZ15BbWU4MDA2OTk2NDEx._V1_.jpg
+Andrew Stanton,https://www.imdb.com/name/nm0004056/,USA,https://m.media-amazon.com/images/M/MV5BMTQ3NGE0ZjctNGUwMC00ODMyLTg5ZDktY2IxOTIwNmM3Nzg4XkEyXkFqcGdeQXVyMTEzNTE2NzQx._V1_.jpg
+David Lynch,https://www.imdb.com/name/nm0000186/,USA,https://m.media-amazon.com/images/M/MV5BMTQ1MTY2MTY2Nl5BMl5BanBnXkFtZTcwMDg1ODYwNA@@._V1_.jpg
+Roman Polanski,https://www.imdb.com/name/nm0000591/,France,https://m.media-amazon.com/images/M/MV5BMTAzNzgwMzMyNDNeQTJeQWpwZ15BbWU2MDg0MDkzNA@@._V1_.jpg
+Martin Scorsese,https://www.imdb.com/name/nm0000217/,USA,https://m.media-amazon.com/images/M/MV5BMTcyNDA4Nzk3N15BMl5BanBnXkFtZTcwNDYzMjMxMw@@._V1_.jpg
+James McTeigue,https://www.imdb.com/name/nm0574625/,NA,https://m.media-amazon.com/images/M/MV5BMTUxNTQwNDQ1MV5BMl5BanBnXkFtZTcwOTI2MDUwNg@@._V1_.jpg
+Victor Fleming,https://www.imdb.com/name/nm0281808/,USA,https://m.media-amazon.com/images/M/MV5BMWU2NTRjMGItMzM4MC00MjRlLWEyYjItYTEwNGQ5YzJmYmU3XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg
+Guy Ritchie,https://www.imdb.com/name/nm0005363/,UK,https://m.media-amazon.com/images/M/MV5BMTM2NDkxMTcxMl5BMl5BanBnXkFtZTcwNTMyNjI5MQ@@._V1_.jpg
+Pete Docter,https://www.imdb.com/name/nm0230032/,USA,https://m.media-amazon.com/images/M/MV5BOTAwMGJlMjEtMTRkYS00YzlmLWI1NDAtZmMxMGFlODAwNDI0XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg
+Alfred Hitchcock,https://www.imdb.com/name/nm0000033/,UK,https://m.media-amazon.com/images/M/MV5BNGJkNmE4MjMtNGIzNC00NTVjLWJkNDItZTE5NTI2YmZiZDg5XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg
+Juan José Campanella,https://www.imdb.com/name/nm0002728/,Argentina,https://m.media-amazon.com/images/M/MV5BMTcxMDgwNDM0NF5BMl5BanBnXkFtZTcwMzczMjMyMw@@._V1_.jpg
+Hayao Miyazaki,https://www.imdb.com/name/nm0594503/,Japan,https://m.media-amazon.com/images/M/MV5BMjcyNjk2OTkwNF5BMl5BanBnXkFtZTcwOTk0MTQ3Mg@@._V1_.jpg
+Martin McDonagh,https://www.imdb.com/name/nm1732981/,UK,https://m.media-amazon.com/images/M/MV5BMTgxMTQ2Njc5NF5BMl5BanBnXkFtZTcwMDU2Mzc1MQ@@._V1_.jpg
+David Lean,https://www.imdb.com/name/nm0000180/,UK,https://m.media-amazon.com/images/M/MV5BMjM3NzIzMzg4M15BMl5BanBnXkFtZTcwOTA1Mzg3Mw@@._V1_.jpg
+Danny Boyle,https://www.imdb.com/name/nm0000965/,UK,https://m.media-amazon.com/images/M/MV5BMTc2NTU0ODQ0M15BMl5BanBnXkFtZTcwNjYzMzc5Mg@@._V1_.jpg
+Denis Villeneuve,https://www.imdb.com/name/nm0898288/,Canada,https://m.media-amazon.com/images/M/MV5BMzU2MDk5MDI2MF5BMl5BanBnXkFtZTcwNDkwMjMzNA@@._V1_.jpg
+Gavin O'Connor,https://www.imdb.com/name/nm0640334/,USA,https://m.media-amazon.com/images/M/MV5BMTc2MzQyNzE1N15BMl5BanBnXkFtZTcwMDQxOTYyMQ@@._V1_.jpg
+Joel Coen,https://www.imdb.com/name/nm0001054/,USA,https://m.media-amazon.com/images/M/MV5BMTg3MjgwMzUzOF5BMl5BanBnXkFtZTcwODM5Nzk4MQ@@._V1_.jpg
+Clint Eastwood,https://www.imdb.com/name/nm0000142/,USA,https://m.media-amazon.com/images/M/MV5BMTg3MDc0MjY0OV5BMl5BanBnXkFtZTcwNzU1MDAxOA@@._V1_.jpg
+Hayao Miyazaki,https://www.imdb.com/name/nm0594503/,Japan,https://m.media-amazon.com/images/M/MV5BMjcyNjk2OTkwNF5BMl5BanBnXkFtZTcwOTk0MTQ3Mg@@._V1_.jpg
+Steven Spielberg,https://www.imdb.com/name/nm0000229/,USA,https://m.media-amazon.com/images/M/MV5BMTY1NjAzNzE1MV5BMl5BanBnXkFtZTYwNTk0ODc0._V1_.jpg
+Clint Eastwood,https://www.imdb.com/name/nm0000142/,USA,https://m.media-amazon.com/images/M/MV5BMTg3MDc0MjY0OV5BMl5BanBnXkFtZTcwNzU1MDAxOA@@._V1_.jpg
+Majid Majidi,https://www.imdb.com/name/nm0006498/,Iran,https://m.media-amazon.com/images/M/MV5BZmExNWI0MTgtMTQyZi00YjA3LWE1NDMtZDFhZTNiNmUxNTM1XkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_.jpg
+Ridley Scott,https://www.imdb.com/name/nm0000631/,UK,https://m.media-amazon.com/images/M/MV5BMGJkOGM5OWEtNDYxMy00Njg4LWExNjAtY2ZlNWNlNzVhNDk4XkEyXkFqcGdeQXVyNDkzNTM2ODg@._V1_.jpg
+Charles Chaplin,https://www.imdb.com/name/nm0000122/,UK,https://m.media-amazon.com/images/M/MV5BNDcwMDc0ODAzOF5BMl5BanBnXkFtZTgwNTY2OTI1MDE@._V1_.jpg
+Richard Linklater,https://www.imdb.com/name/nm0000500/,USA,https://m.media-amazon.com/images/M/MV5BMTQ0Mzc2NzY0Ml5BMl5BanBnXkFtZTcwOTI3OTI5MQ@@._V1_.jpg
+Steve McQueen,https://www.imdb.com/name/nm2588606/,UK,https://m.media-amazon.com/images/M/MV5BMTQzNjQ5NDUxNl5BMl5BanBnXkFtZTcwNjA0MTg1Ng@@._V1_.jpg
+Sergio Pablos,https://www.imdb.com/name/nm0655053/,NA,https://m.media-amazon.com/images/M/MV5BYTUxYWI5MmMtNDYzOS00OWM2LWE1ZDMtMTg3NzI4MmMxNWNkXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg
+David Yates,https://www.imdb.com/name/nm0946734/,UK,https://m.media-amazon.com/images/M/MV5BMTY2NTU4NjY4M15BMl5BanBnXkFtZTYwNjIxOTI1._V1_.jpg
+Elia Kazan,https://www.imdb.com/name/nm0001415/,Turkey,https://m.media-amazon.com/images/M/MV5BMjI0OTg0NTk0N15BMl5BanBnXkFtZTgwMTQyOTE3MDI@._V1_.jpg
+William Wyler,https://www.imdb.com/name/nm0943758/,France,https://m.media-amazon.com/images/M/MV5BMTk0MjMzMzk5OF5BMl5BanBnXkFtZTcwMTMyMzQ5Mw@@._V1_.jpg
+David Fincher,https://www.imdb.com/name/nm0000399/,USA,https://m.media-amazon.com/images/M/MV5BMTc1NDkwMTQ2MF5BMl5BanBnXkFtZTcwMzY0ODkyMg@@._V1_.jpg
+Wes Anderson,https://www.imdb.com/name/nm0027572/,USA,https://m.media-amazon.com/images/M/MV5BMTY1MjgzODIwNF5BMl5BanBnXkFtZTcwNTM2NzExMw@@._V1_.jpg
+Ingmar Bergman,https://www.imdb.com/name/nm0000005/,Sweden,https://m.media-amazon.com/images/M/MV5BMTc4MjQwMzY0N15BMl5BanBnXkFtZTcwNTI1NTM1MQ@@._V1_.jpg
+Clyde Bruckman,https://www.imdb.com/name/nm0115669/,USA,https://m.media-amazon.com/images/M/MV5BNGIyMjI2YmItYmMyZi00OGFmLWJhMGQtYmU4ZGNlNjRhNDQyXkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_.jpg
+Carol Reed,https://www.imdb.com/name/nm0715346/,UK,https://m.media-amazon.com/images/M/MV5BMjBjZjRjMTctNzc1OC00NDZlLTgxODEtNTE1YmIxOGUyNWY1XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg
+Jim Sheridan,https://www.imdb.com/name/nm0006487/,Ireland,https://m.media-amazon.com/images/M/MV5BMTcxOTcwNzU5MF5BMl5BanBnXkFtZTYwMDIxNTk1._V1_.jpg
+Michael Cimino,https://www.imdb.com/name/nm0001047/,USA,https://m.media-amazon.com/images/M/MV5BMjAwMjIwMTM2M15BMl5BanBnXkFtZTcwNTQ4NTMzNA@@._V1_.jpg
+Stanley Kubrick,https://www.imdb.com/name/nm0000040/,USA,https://m.media-amazon.com/images/M/MV5BOGYzYjljYmYtODE0Yy00NzlmLThkNmQtZGQzMjM4MGI1NTUxXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_.jpg
+Mel Gibson,https://www.imdb.com/name/nm0000154/,USA,https://m.media-amazon.com/images/M/MV5BNTUzOTMwNTM0OV5BMl5BanBnXkFtZTcwNDQwMTUxMw@@._V1_.jpg
+Henri-Georges Clouzot,https://www.imdb.com/name/nm0167241/,France,https://m.media-amazon.com/images/M/MV5BMzQzMjA0OTY5N15BMl5BanBnXkFtZTgwNjMxNDc3NTE@._V1_.jpg
+Bong Joon Ho,https://www.imdb.com/name/nm0094435/,South Korea,https://m.media-amazon.com/images/M/MV5BOGVmYzZkODgtNTQ3OS00MzgxLTllOGUtZTFjNDc4MmE1ZDcwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg
+Buster Keaton,https://www.imdb.com/name/nm0000036/,USA,https://m.media-amazon.com/images/M/MV5BMTI0MjA4ODk5OF5BMl5BanBnXkFtZTYwNDQyNjI2._V1_.jpg
+Damián Szifron,https://www.imdb.com/name/nm1167933/,Argentina,https://m.media-amazon.com/images/M/MV5BNzQ2NTYyODAzMV5BMl5BanBnXkFtZTgwNzM1NDUxNDE@._V1_.jpg
+Frank Capra,https://www.imdb.com/name/nm0001008/,Italy,https://m.media-amazon.com/images/M/MV5BMTQ1NjE0NzgzNV5BMl5BanBnXkFtZTYwODg0MjI2._V1_.jpg
+George Miller,https://www.imdb.com/name/nm0004306/,Australia,https://m.media-amazon.com/images/M/MV5BMTQ5NTYwMjcyMF5BMl5BanBnXkFtZTYwMDQ0MjQz._V1_.jpg
+Ingmar Bergman,https://www.imdb.com/name/nm0000005/,Sweden,https://m.media-amazon.com/images/M/MV5BMTc4MjQwMzY0N15BMl5BanBnXkFtZTcwNTI1NTM1MQ@@._V1_.jpg
+Adam Elliot,https://www.imdb.com/name/nm0254178/,Australia,https://m.media-amazon.com/images/M/MV5BNDg2NTU4MTQzMl5BMl5BanBnXkFtZTcwMzE2NTAzMQ@@._V1_.jpg
+Dean DeBlois,https://www.imdb.com/name/nm0213450/,Canada,https://m.media-amazon.com/images/M/MV5BMTYzNTk0MDQ2MF5BMl5BanBnXkFtZTgwOTUzMTI2NjE@._V1_.jpg
+Lenny Abrahamson,https://www.imdb.com/name/nm1049433/,Ireland,https://m.media-amazon.com/images/M/MV5BMTExMDQyMTQzNjleQTJeQWpwZ15BbWU4MDg0NTk5ODAx._V1_.jpg
+Pete Docter,https://www.imdb.com/name/nm0230032/,USA,https://m.media-amazon.com/images/M/MV5BOTAwMGJlMjEtMTRkYS00YzlmLWI1NDAtZmMxMGFlODAwNDI0XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg
+Steven Spielberg,https://www.imdb.com/name/nm0000229/,USA,https://m.media-amazon.com/images/M/MV5BMTY1NjAzNzE1MV5BMl5BanBnXkFtZTYwNTk0ODc0._V1_.jpg
+Peter Weir,https://www.imdb.com/name/nm0001837/,Australia,https://m.media-amazon.com/images/M/MV5BMTIzNDg2NTIyN15BMl5BanBnXkFtZTYwNzQyNDY1._V1_.jpg
+Joel Coen,https://www.imdb.com/name/nm0001054/,USA,https://m.media-amazon.com/images/M/MV5BMTg3MjgwMzUzOF5BMl5BanBnXkFtZTcwODM5Nzk4MQ@@._V1_.jpg
+Yasujirô Ozu,https://www.imdb.com/name/nm0654868/,Japan,https://m.media-amazon.com/images/M/MV5BMTExMzQyOTA3NDdeQTJeQWpwZ15BbWU4MDA0MjEzMjIx._V1_.jpg
+Carl Theodor Dreyer,https://www.imdb.com/name/nm0003433/,Denmark,https://m.media-amazon.com/images/M/MV5BMTU4OTQzODE3M15BMl5BanBnXkFtZTgwMTk5OTk1MjE@._V1_.jpg
+Terry George,https://www.imdb.com/name/nm0313623/,UK,https://m.media-amazon.com/images/M/MV5BMTQ0NDk0NDkyNV5BMl5BanBnXkFtZTgwNzUyMzY0NDE@._V1_.jpg
+James Mangold,https://www.imdb.com/name/nm0003506/,USA,https://m.media-amazon.com/images/M/MV5BMTg5MjY0ODg1MF5BMl5BanBnXkFtZTYwMjUzMjc0._V1_.jpg
+John G. Avildsen,https://www.imdb.com/name/nm0000814/,USA,https://m.media-amazon.com/images/M/MV5BMTc0MTY2MzM2MV5BMl5BanBnXkFtZTYwNDI3MDky._V1_.jpg
+Oliver Stone,https://www.imdb.com/name/nm0000231/,USA,https://m.media-amazon.com/images/M/MV5BMTMwMjExMTY3OV5BMl5BanBnXkFtZTcwNjY3MDA2MQ@@._V1_.jpg
+Brad Bird,https://www.imdb.com/name/nm0083348/,USA,https://m.media-amazon.com/images/M/MV5BMTk5Mzg1ODcyNV5BMl5BanBnXkFtZTcwMjU1ODkyMw@@._V1_.jpg
+Tom McCarthy,https://www.imdb.com/name/nm0565336/,USA,https://m.media-amazon.com/images/M/MV5BMTIyODYyNzk2NF5BMl5BanBnXkFtZTYwMjAxNTE2._V1_.jpg
+James Cameron,https://www.imdb.com/name/nm0000116/,Canada,https://m.media-amazon.com/images/M/MV5BMjI0MjMzOTg2MF5BMl5BanBnXkFtZTcwMTM3NjQxMw@@._V1_.jpg
+James Mangold,https://www.imdb.com/name/nm0003506/,USA,https://m.media-amazon.com/images/M/MV5BMTg5MjY0ODg1MF5BMl5BanBnXkFtZTYwMjUzMjc0._V1_.jpg
+Rob Reiner,https://www.imdb.com/name/nm0001661/,USA,https://m.media-amazon.com/images/M/MV5BMTc2Njg1MDM2OV5BMl5BanBnXkFtZTcwMTE4NDk2Mw@@._V1_.jpg
+Ron Howard,https://www.imdb.com/name/nm0000165/,USA,https://m.media-amazon.com/images/M/MV5BMTkzMDczMjUxNF5BMl5BanBnXkFtZTcwODY1Njk5Mg@@._V1_.jpg
+Sidney Lumet,https://www.imdb.com/name/nm0001486/,USA,https://m.media-amazon.com/images/M/MV5BMTY4Mzk5Mzk4Ml5BMl5BanBnXkFtZTYwMTE2NDg0._V1_.jpg
+Sean Penn,https://www.imdb.com/name/nm0000576/,USA,https://m.media-amazon.com/images/M/MV5BMTc1NjMzMjY3NF5BMl5BanBnXkFtZTcwMzkxNjQzMg@@._V1_.jpg
+Richard Linklater,https://www.imdb.com/name/nm0000500/,USA,https://m.media-amazon.com/images/M/MV5BMTQ0Mzc2NzY0Ml5BMl5BanBnXkFtZTcwOTI3OTI5MQ@@._V1_.jpg
+Victor Fleming,https://www.imdb.com/name/nm0281808/,USA,https://m.media-amazon.com/images/M/MV5BMWU2NTRjMGItMzM4MC00MjRlLWEyYjItYTEwNGQ5YzJmYmU3XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg
+Satyajit Ray,https://www.imdb.com/name/nm0006249/,India,https://m.media-amazon.com/images/M/MV5BMTQ4MDA1ODIzMF5BMl5BanBnXkFtZTcwNDU0OTkxOA@@._V1_.jpg
+Harold Ramis,https://www.imdb.com/name/nm0000601/,USA,https://m.media-amazon.com/images/M/MV5BMTc5MTAwMzE3NF5BMl5BanBnXkFtZTYwNTg2ODMz._V1_.jpg
+William Wyler,https://www.imdb.com/name/nm0943758/,France,https://m.media-amazon.com/images/M/MV5BMTk0MjMzMzk5OF5BMl5BanBnXkFtZTcwMTMyMzQ5Mw@@._V1_.jpg
+William Friedkin,https://www.imdb.com/name/nm0001243/,USA,https://m.media-amazon.com/images/M/MV5BMTUwNjUzNzA0M15BMl5BanBnXkFtZTcwNzU5MDkwMw@@._V1_.jpg
+Brad Bird,https://www.imdb.com/name/nm0083348/,USA,https://m.media-amazon.com/images/M/MV5BMTk5Mzg1ODcyNV5BMl5BanBnXkFtZTcwMjU1ODkyMw@@._V1_.jpg
+Ernst Lubitsch,https://www.imdb.com/name/nm0523932/,Germany,https://m.media-amazon.com/images/M/MV5BMjEwMDI0ODEzMF5BMl5BanBnXkFtZTYwMDg2MjI2._V1_.jpg
+Mathieu Kassovitz,https://www.imdb.com/name/nm0440913/,France,https://m.media-amazon.com/images/M/MV5BMzIwMzIzMzE3NF5BMl5BanBnXkFtZTYwNzcwODU1._V1_.jpg
+Gillo Pontecorvo,https://www.imdb.com/name/nm0690597/,Italy,https://m.media-amazon.com/images/M/MV5BMTY2NDkwMjYxMF5BMl5BanBnXkFtZTYwMDA3NTEz._V1_.jpg
+Gore Verbinski,https://www.imdb.com/name/nm0893659/,USA,https://m.media-amazon.com/images/M/MV5BMTY5ODAzNzg5OV5BMl5BanBnXkFtZTcwOTkwMjIwMQ@@._V1_.jpg
+Lasse Hallström,https://www.imdb.com/name/nm0002120/,Sweden,https://m.media-amazon.com/images/M/MV5BMTk0MTg5MjAxM15BMl5BanBnXkFtZTYwMjYyODA0._V1_.jpg
+John Ford,https://www.imdb.com/name/nm0000406/,USA,https://m.media-amazon.com/images/M/MV5BMTI5NDczOTUzMV5BMl5BanBnXkFtZTcwNDE3NDkwNA@@._V1_.jpg
+T.J. Gnanavel,https://www.imdb.com/name/nm4377096/,India,https://m.media-amazon.com/images/M/MV5BMjNjYWEzOTEtMWIwZC00ZDU2LWE4OTgtM2RjNWYxYWU4OTBjXkEyXkFqcGdeQXVyMTUyNjIwMDEw._V1_.jpg
+Çagan Irmak,https://www.imdb.com/name/nm1463981/,Turkey,https://m.media-amazon.com/images/M/MV5BMzAyOGI2YzgtMDMyNi00ZTkwLWJiNDctYWUwOGU1Njk1MTYyXkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_.jpg
+Alejandro G. Iñárritu,https://www.imdb.com/name/nm0327944/,Mexico,https://m.media-amazon.com/images/M/MV5BMTcwNDMyOTMzMl5BMl5BanBnXkFtZTcwODQ0OTE0Ng@@._V1_.jpg
+Alfred Hitchcock,https://www.imdb.com/name/nm0000033/,UK,https://m.media-amazon.com/images/M/MV5BNGJkNmE4MjMtNGIzNC00NTVjLWJkNDItZTE5NTI2YmZiZDg5XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg
+Stuart Rosenberg,https://www.imdb.com/name/nm0742341/,USA,https://m.media-amazon.com/images/M/MV5BYmJlMDFjZGYtYmMxMy00YTY1LThhNWMtNTgxYmE3MmNjZGU5XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg
+Park Chan-wook,https://www.imdb.com/name/nm0661791/,South Korea,https://m.media-amazon.com/images/M/MV5BMTgyODk3MTU5OV5BMl5BanBnXkFtZTcwMTc3NjcyMQ@@._V1_.jpg
+François Truffaut,https://www.imdb.com/name/nm0000076/,France,https://m.media-amazon.com/images/M/MV5BMTIwMTg1NTc1OV5BMl5BanBnXkFtZTYwOTI5MDM2._V1_.jpg
+Robert Wise,https://www.imdb.com/name/nm0936404/,USA,https://m.media-amazon.com/images/M/MV5BMTA5MDYxNTc4OTVeQTJeQWpwZ15BbWU2MDg0MDYwNQ@@._V1_.jpg
+Frank Capra,https://www.imdb.com/name/nm0001008/,Italy,https://m.media-amazon.com/images/M/MV5BMTQ1NjE0NzgzNV5BMl5BanBnXkFtZTYwODg0MjI2._V1_.jpg
+Ingmar Bergman,https://www.imdb.com/name/nm0000005/,Sweden,https://m.media-amazon.com/images/M/MV5BMTc4MjQwMzY0N15BMl5BanBnXkFtZTcwNTI1NTM1MQ@@._V1_.jpg
+Terry Jones,https://www.imdb.com/name/nm0001402/,UK,https://m.media-amazon.com/images/M/MV5BYjdjODRlMDQtNjEzNS00MDI4LWFjMWItZDdmZWYzMzJkM2I4XkEyXkFqcGdeQXVyMjE5MzM3MjA@._V1_.jpg
+Brad Bird,https://www.imdb.com/name/nm0083348/,USA,https://m.media-amazon.com/images/M/MV5BMTk5Mzg1ODcyNV5BMl5BanBnXkFtZTcwMjU1ODkyMw@@._V1_.jpg
+Tate Taylor,https://www.imdb.com/name/nm0853238/,USA,https://m.media-amazon.com/images/M/MV5BMTQxNDQ3OTgwNl5BMl5BanBnXkFtZTcwMjEzMDM5OA@@._V1_.jpg
+Akira Kurosawa,https://www.imdb.com/name/nm0000041/,Japan,https://m.media-amazon.com/images/M/MV5BMjE3ODQwNTY2Nl5BMl5BanBnXkFtZTcwMTI5ODM1Mw@@._V1_.jpg
+Ron Clements,https://www.imdb.com/name/nm0166256/,USA,https://m.media-amazon.com/images/M/MV5BMTM0MDAxMjU4N15BMl5BanBnXkFtZTcwMzQ1MjcxMw@@._V1_.jpg
+Richard Attenborough,https://www.imdb.com/name/nm0000277/,UK,https://m.media-amazon.com/images/M/MV5BMTkwMDQzMTAwN15BMl5BanBnXkFtZTcwNTI4NTgwMw@@._V1_.jpg
+Kevin Costner,https://www.imdb.com/name/nm0000126/,USA,https://m.media-amazon.com/images/M/MV5BMTY1ODkwMTQxOF5BMl5BanBnXkFtZTcwNzkwNDcyMw@@._V1_.jpg

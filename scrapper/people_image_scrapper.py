@@ -54,5 +54,25 @@ def get_people_url(url):
 
     return image_url
 
-get_people_url("https://www.imdb.com/name/nm2371802/")
+
+def scrapper_task(filename, generate_filename, column_name):
+
+    with open(filename, "r") as f:
+        lines = f.readlines()[1:]
+
+    with open(generate_filename, "w", newline="") as csvfile:
+        # Create a CSV writer object
+        writer = csv.writer(csvfile)
+        # Write the header row
+        writer.writerow(column_name)
+        for line in lines:
+            line = line.replace("\n", "")
+            line_items = line.split(",")
+            url = line_items[1]
+            image_url = get_people_url(url)
+            line_items.append(image_url)
+            writer.writerow(line_items[:])
+
+
+scrapper_task("director_url_nation.csv", "director_image.csv", ["director", "director_url", "nationality","image_url"])
 

@@ -59,6 +59,7 @@ const MovieGraphVis = () => {
     // console.log("debug handleSearchMovies", selected)
     if (selected.length === 0) {
       setSelectedMovies(movies); 
+      setGenreID(16);
     } else {
       setSelectedMovies(selected);
       setGenreID(17);
