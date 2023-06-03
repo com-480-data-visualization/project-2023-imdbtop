@@ -50,11 +50,13 @@ const MovieSales = () => {
         <StyledInfoMain>
         <p>
         <h1 style={{textAlign: "center"}}>
-          TODO
+          Money will come and go, but the glory will last forever.
           </h1>
         </p>  
         <p style={{lineHeight: "2"}}>
-          TODO
+          If you don't care about how much money the movie earns, and you just want to see the best movies,
+           then you can try a new approach below. Click the genre you like, and you will see the movies with different ratings. 
+           Click the pop-up window to see the details of the movie you interested in. (Tips: If you can't see the chart,please refresh the page.)
         </p>  
         </StyledInfoMain>
       </StyledInfoSection>
