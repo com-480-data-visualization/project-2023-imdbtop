@@ -124,7 +124,7 @@ Run the website:
 
 ## Milestone 3 (4th June, 5pm)
 
-Website:
+Website: https://com-480-data-visualization.github.io/project-2023-imdbtop/
 
 Process book:
 
