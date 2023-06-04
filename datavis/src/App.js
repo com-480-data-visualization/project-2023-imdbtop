@@ -37,6 +37,7 @@ function App() {
         <StyledWrapper>
           <Routes>
             <Route exact path="/" element={<MovieGraph/>} />
+            <Route exact path="/project-2023-imdbtop" element={<MovieGraph/>} />
             <Route path="/*" element={<ErrorPage />} />
             <Route path="/info" element={<Info />} />
             <Route path="vis/MovieMap" element={<MovieMap/>} />
