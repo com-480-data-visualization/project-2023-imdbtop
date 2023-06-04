@@ -37,7 +37,7 @@ const MovieGraphVis = () => {
     const fetchData = async () => {
       if (! isFeteched) {
         try {
-          const response = await d3.json('/data/movies_relation.json'); // Replace with the actual path to your JSON file
+          const response = await d3.json('./data/movies_relation.json'); // Replace with the actual path to your JSON file
           setMovies(response);
           setSelectedMovies(response);
           setIsFeteched(true);

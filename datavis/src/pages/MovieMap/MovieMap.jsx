@@ -64,10 +64,10 @@ const MovieMap = () => {
   useEffect(() => {
     // Update the country list based on the active tab
     if (activeTab === 'A') {
-      setCountryList(countriesList("/data/star_nation.json"));
+      setCountryList(countriesList("./data/star_nation.json"));
       setVisibleState(false);
     } else if (activeTab === 'B') {
-      setCountryList(countriesList("/data/director_nation.json"));
+      setCountryList(countriesList("./data/director_nation.json"));
       setVisibleState(false);
     }
   }, [activeTab]);
