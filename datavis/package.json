@@ -2,7 +2,7 @@
     "name": "cmoive",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://com-480-data-visualization.github.io/project-2023-imdbtop/",
+    "homepage": "./",
     "dependencies": {
         "@fortawesome/fontawesome-svg-core": "^6.2.0",
         "@fortawesome/free-solid-svg-icons": "^6.2.0",
