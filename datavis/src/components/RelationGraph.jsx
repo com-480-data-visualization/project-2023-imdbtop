@@ -3,6 +3,8 @@ import * as d3 from 'd3';
 import { NodeInfo, Image } from './styles/NodeInfo.styled';
 
 const RelationGraph = ({ movies, genre, allmovies}) => {
+  const [isLoading, setIsLoading] = useState(true);
+
   console.log("debug movies", movies);
   const svgRef = useRef(null);
   const [hoveredNode, setHoveredNode] = useState(null);
@@ -56,7 +58,7 @@ const RelationGraph = ({ movies, genre, allmovies}) => {
       .force('charge', d3.forceManyBody().strength(-100))
       .force('center', d3.forceCenter(width / 2, height / 2));
 
-    console.log("debug here", genre, movies);
+    // console.log("debug here", genre, movies);
 
     InitialfilterMovies(genre, movies);
 
@@ -74,7 +76,7 @@ const RelationGraph = ({ movies, genre, allmovies}) => {
       return [...acc, ...movieLinks];
     }, []);
 
-    console.log("debug here 1");
+    // console.log("debug here 1");
 
     const nodes = filteredMovies.map(movie => ({
       id: movie.id,
@@ -87,7 +89,7 @@ const RelationGraph = ({ movies, genre, allmovies}) => {
     }));
 
     
-    console.log("debug here 2");
+    // console.log("debug here 2");
 
     const link = svg.selectAll('.link')
       .data(links)
@@ -96,7 +98,7 @@ const RelationGraph = ({ movies, genre, allmovies}) => {
       .attr('class', 'link')
       .style('stroke', 'black'); 
 
-    console.log("debug here 3");
+    // console.log("debug here 3");
 
     const node = svg.selectAll('.node')
       .data(nodes)
@@ -125,7 +127,7 @@ const RelationGraph = ({ movies, genre, allmovies}) => {
         d3.select(event.target).attr('xlink:href', 'fallback-image.jpg');
       });
 
-    console.log("debug here 4");
+    // console.log("debug here 4");
 
     const label = svg.selectAll('.label')
       .data(nodes)
@@ -150,7 +152,7 @@ const RelationGraph = ({ movies, genre, allmovies}) => {
 
     simulation.force('link').links(links);
 
-    console.log("debug here 5");
+    // console.log("debug here 5");
 
     function drag(simulation) {
       function dragStarted(event, d) {
@@ -224,16 +226,24 @@ const RelationGraph = ({ movies, genre, allmovies}) => {
   }, [movies, genre]);
 
 
+  useEffect(() => {
+    setIsLoading(false);
+  }, []);
+
   return (
     <div>
-      <svg ref={svgRef}></svg>
+      {isLoading ? (
+        <div></div>
+      ) : (
+        <svg ref={svgRef}></svg>
+      )}
       {hoveredNode && (
         <NodeInfo style={nodeInfoPosition}>
-           <Image src={hoveredNode.imageUrl} alt={hoveredNode.id} />
-           <p># {hoveredNode.rank}</p>
-           <p>Movie Name: {hoveredNode.id}</p>
-           <p>Genre: {hoveredNode.genre}</p>
-           <p>Rating: {hoveredNode.rating}</p>
+            <Image src={hoveredNode.imageUrl} alt={hoveredNode.id} />
+            <p># {hoveredNode.rank}</p>
+            <p>Movie Name: {hoveredNode.id}</p>
+            <p>Genre: {hoveredNode.genre}</p>
+            <p>Rating: {hoveredNode.rating}</p>
         </NodeInfo>
       )}
     </div>
