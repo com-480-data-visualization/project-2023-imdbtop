@@ -10,12 +10,13 @@ const RelationGraph = ({ movies, genre, allmovies}) => {
   const [filteredMovies, setFilteredMovies] = useState([]); 
 
   const InitialfilterMovies = (genre, movies) => {
-    let tmpMovies = genre ? movies.filter(item => item.genre.indexOf(genre) !== -1) : movies;
+    const tmpMovies = genre ? movies.filter(item => item.genre.indexOf(genre) !== -1) : movies;
 
     if (tmpMovies.length > 20) {
-      tmpMovies = tmpMovies.sort((a, b) => a.rating - b.rating).slice(0, 20);
+      filterRes = tmpMovies.sort((a, b) => a.rating - b.rating).slice(0, 20);
     }
-    setFilteredMovies(tmpMovies);
+    setFilteredMovies(filterRes);
+    console.log("debug filter movies", filterRes);
   }
 
   const updateFilterMovies = (movieId) => {
@@ -71,6 +72,8 @@ const RelationGraph = ({ movies, genre, allmovies}) => {
       return [...acc, ...movieLinks];
     }, []);
 
+    console.log("debug here 1");
+
     const nodes = filteredMovies.map(movie => ({
       id: movie.id,
       imageUrl: movie.image_url,
@@ -81,12 +84,17 @@ const RelationGraph = ({ movies, genre, allmovies}) => {
       neighbors: movie.neighbors
     }));
 
+    
+    console.log("debug here 2");
+
     const link = svg.selectAll('.link')
       .data(links)
       .enter()
       .append('line')
       .attr('class', 'link')
       .style('stroke', 'black'); 
+
+    console.log("debug here 3");
 
     const node = svg.selectAll('.node')
       .data(nodes)
@@ -115,6 +123,8 @@ const RelationGraph = ({ movies, genre, allmovies}) => {
         d3.select(event.target).attr('xlink:href', 'fallback-image.jpg');
       });
 
+    console.log("debug here 4");
+
     const label = svg.selectAll('.label')
       .data(nodes)
       .enter()
@@ -137,6 +147,8 @@ const RelationGraph = ({ movies, genre, allmovies}) => {
     });
 
     simulation.force('link').links(links);
+
+    console.log("debug here 5");
 
     function drag(simulation) {
       function dragStarted(event, d) {
@@ -200,12 +212,15 @@ const RelationGraph = ({ movies, genre, allmovies}) => {
       link
         .style('stroke', linkData => (linkData.source === d || linkData.target === d) ? 'black' : 'darkgrey');
     }
+    
+    console.log("debug here 6");
 
     // Clean up the simulation when component unmounts
     return () => {
       simulation.stop();
     };
   }, [movies, genre]);
+
 
   return (
     <div>
