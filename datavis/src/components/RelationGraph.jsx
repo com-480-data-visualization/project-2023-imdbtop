@@ -13,10 +13,12 @@ const RelationGraph = ({ movies, genre, allmovies}) => {
     const tmpMovies = genre ? movies.filter(item => item.genre.indexOf(genre) !== -1) : movies;
 
     if (tmpMovies.length > 20) {
-      filterRes = tmpMovies.sort((a, b) => a.rating - b.rating).slice(0, 20);
+      const filterRes = tmpMovies.sort((a, b) => a.rating - b.rating).slice(0, 20);
+      setFilteredMovies(filterRes);
+    } else {
+      setFilteredMovies(tmpMovies);
     }
-    setFilteredMovies(filterRes);
-    console.log("debug filter movies", filterRes);
+    console.log("debug filter movies", tmpMovies);
   }
 
   const updateFilterMovies = (movieId) => {
@@ -212,7 +214,7 @@ const RelationGraph = ({ movies, genre, allmovies}) => {
       link
         .style('stroke', linkData => (linkData.source === d || linkData.target === d) ? 'black' : 'darkgrey');
     }
-    
+
     console.log("debug here 6");
 
     // Clean up the simulation when component unmounts
