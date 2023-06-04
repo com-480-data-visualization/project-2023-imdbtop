@@ -2,9 +2,11 @@ import React, { useEffect, useRef, useState } from 'react';
 import * as d3 from 'd3';
 import * as topojson from 'topojson';
 import { NodeInfo, Image } from './styles/NodeInfo.styled';
+import { feature } from '@rapideditor/country-coder'
 
 const WorldMap = (props) => {
   const [nodeInfoPosition, setNodeInfoPosition] = useState({ top: 0, left: 0 });
+  const [countryInfo, setCountryInfo] = useState("");
 
   const svgRef = useRef(null);
   const {
@@ -102,7 +104,10 @@ const WorldMap = (props) => {
           return orginal_country_color;
           })
           .on('click', (d) => {
-            console.log('Click on country', d.target.__data__);
+            setCountryInfo(d.target.__data__.id);
+            console.log('Click on country debug', d.target.__data__.id);
+            console.log('Click on country', feature(d.target.__data__.id));
+            // console.log('Click on country', feature(d.target.__data_.id));
             go_to_country(d.target.__data__.id);
             visibleStateFun(true);
           });
@@ -162,7 +167,7 @@ const WorldMap = (props) => {
             top: containerRect.top + y + height + 10,
             left: containerRect.left + x + width / 2,
           };
-          console.log("debug position", position, country);
+          console.log("debug position", country);
           setNodeInfoPosition(position);
           
         }
@@ -189,9 +194,9 @@ const WorldMap = (props) => {
     <div>
       <svg ref={svgRef}></svg>
       
-      {visibleState && (
+      {visibleState && countryInfo && (
         <NodeInfo style={nodeInfoPosition}>
-          <p> test </p>
+          <p> {countryInfo} </p>
         </NodeInfo>
       )}
       
