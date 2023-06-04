@@ -2,12 +2,11 @@ import React, { useEffect, useRef, useState } from 'react';
 import * as d3 from 'd3';
 import * as topojson from 'topojson';
 import { NodeInfo, Image } from './styles/NodeInfo.styled';
-import { feature } from '@rapideditor/country-coder'
+import { feature,emojiFlag } from '@rapideditor/country-coder'
 
 const WorldMap = (props) => {
   const [nodeInfoPosition, setNodeInfoPosition] = useState({ top: 0, left: 0 });
   const [countryInfo, setCountryInfo] = useState("");
-
   const svgRef = useRef(null);
   const {
     world_type,
@@ -196,7 +195,8 @@ const WorldMap = (props) => {
       
       {visibleState && countryInfo && (
         <NodeInfo style={nodeInfoPosition}>
-          <p> {countryInfo} </p>
+          <p> {feature(countryInfo).properties.nameEn}</p>
+          <p> {emojiFlag(countryInfo)}</p>
         </NodeInfo>
       )}
       
