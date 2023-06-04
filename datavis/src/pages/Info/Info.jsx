@@ -19,38 +19,13 @@ const Info = () => {
         </StyledInfoHeader>
         <StyledInfoMain>
           <p>
-            TODO
+          Interactive Graph: Relationship graph of movies and interactive filtering for movie recommendation.
           </p>
           <p>
-            TODO
-          </p>
-        </StyledInfoMain>
-      </StyledInfoSection>
-
-      <StyledInfoSection>
-        <StyledInfoHeader>
-          <h2>Features</h2>
-        </StyledInfoHeader>
-        <StyledInfoMain>
-          <p>
-            TODO
+          Interactive Map: Word Map to  Link geography and movies information.
           </p>
           <p>
-            TODO
-          </p>
-          <p>
-            TODO
-          </p>
-        </StyledInfoMain>
-      </StyledInfoSection>
-
-      <StyledInfoSection>
-        <StyledInfoHeader>
-          <h2>Interface</h2>
-        </StyledInfoHeader>
-        <StyledInfoMain>
-          <p>
-            TODO
+          Further Exploration: Some analysis tools like bubble chart is useful for analysis on rating  or  box office.
           </p>
         </StyledInfoMain>
       </StyledInfoSection>
