@@ -128,7 +128,7 @@ Website: https://com-480-data-visualization.github.io/project-2023-imdbtop/
 
 Process book: [Process book](https://github.com/com-480-data-visualization/project-2023-imdbtop/blob/master/ProcessBook.pdf)
 
-Screencast:
+Screencast: [Screencast](https://drive.google.com/drive/folders/1uOY2nSTpl96xGfrw3Vb12EUJ9FR4cF3p?usp=sharing)
 
 
 ## Late policy
