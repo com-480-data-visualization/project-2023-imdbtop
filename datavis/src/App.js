@@ -7,7 +7,7 @@ Developer: Sunil Park
 
 import React, { useState } from "react";
 import "./font.css";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { HashRouter as Router, Routes, Route } from "react-router-dom";
 import { ThemeProvider } from "styled-components";
 import { darkMode, lightMode } from "./components/Theme";
 import { GlobalStyles } from "./components/styles/Global";
